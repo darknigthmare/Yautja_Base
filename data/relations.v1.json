@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "relation-81a4581370fdd33d",
+      "from_id": "yautja-print-dachande",
+      "to_id": "yautja-print-broken-tusk",
+      "relationship": "adaptation_counterpart",
+      "verification": "partial",
+      "source_ids": [
+        "src-print-prey-story",
+        "src-print-neca18"
+      ],
+      "note": "Noms du personnage dans le roman et la BD; leurs événements ne sont pas fusionnés. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-5a5a6ccecec05a9e",
+      "from_id": "yautja-game-phg-class-jungle-hunter-87",
+      "to_id": "yautja-film-jungle-hunter",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-225",
+        "src-film-p87"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-c86ba953691fb238",
+      "from_id": "yautja-game-phg-class-city-hunter-97",
+      "to_id": "yautja-film-city-hunter",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-home",
+        "src-film-winston-p2"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-56eac1c03fe27a76",
+      "from_id": "yautja-game-phg-class-wolf",
+      "to_id": "yautja-film-wolf",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-home",
+        "src-film-avpr-faq"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-b36f427d6899872d",
+      "from_id": "yautja-game-phg-class-celtic",
+      "to_id": "yautja-film-celtic",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-party3",
+        "src-film-avp-wiki"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-36446ed452b921df",
+      "from_id": "yautja-game-phg-class-scar",
+      "to_id": "yautja-film-scar",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-party3",
+        "src-film-avp-wiki"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-57c15622afa4efc7",
+      "from_id": "yautja-game-phg-class-chopper",
+      "to_id": "yautja-film-chopper",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-party3",
+        "src-film-avp-wiki"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-2a78dee337bd2c78",
+      "from_id": "yautja-game-phg-class-feral",
+      "to_id": "yautja-film-feral",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-feral300",
+        "src-film-prey-flintlock"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-069e9a6219424dc5",
+      "from_id": "yautja-game-phg-class-mr-black",
+      "to_id": "yautja-film-berserker",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-party1",
+        "src-film-predators-wiki"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-82da64fbbaec2846",
+      "from_id": "yautja-game-phg-class-falconer",
+      "to_id": "yautja-film-falconer",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-party1",
+        "src-film-predators-wiki"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-b2898f5076971c63",
+      "from_id": "yautja-game-phg-class-oni",
+      "to_id": "yautja-film-killer-samurai",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-oni",
+        "src-film-kok"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    },
+    {
+      "id": "relation-43f92ecd6b33028c",
+      "from_id": "yautja-game-phg-class-jotun",
+      "to_id": "yautja-film-killer-viking",
+      "relationship": "game_variant_of",
+      "verification": "partial",
+      "source_ids": [
+        "src-game-phg-jotun",
+        "src-film-kok"
+      ],
+      "note": "Variante jouable et référence de film, maintenues comme notices distinctes. Lien documentaire entre notices; les attributs restent propres à chaque œuvre."
+    }
+  ]
+}

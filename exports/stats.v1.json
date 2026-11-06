@@ -1,0 +1,64 @@
+{
+  "as_of": "2026-11-06",
+  "version": "0.1.0",
+  "dataset_sha256": "ba66a05989d84c92c5cad3019c232424b2821cbe979b9ecf8b1dac63d5f5042c",
+  "entities": 481,
+  "works": 178,
+  "sources": 201,
+  "bindings": 130,
+  "external_identities": 33,
+  "interwork_relations": 12,
+  "imported_candidates": 196,
+  "coverage_items": 191,
+  "anthology_contributions_indexed": 46,
+  "by_kind": {
+    "animation": 8,
+    "biology": 2,
+    "character": 178,
+    "cosmetic": 29,
+    "culture": 6,
+    "effect": 6,
+    "equipment": 46,
+    "faction": 23,
+    "gameplay": 41,
+    "location": 36,
+    "species": 21,
+    "vehicle": 10,
+    "weapon": 75
+  },
+  "by_verification": {
+    "partial": 164,
+    "to_verify": 2,
+    "verified": 315
+  },
+  "by_origin": {
+    "fan": 4,
+    "licensed": 475,
+    "project_original": 2
+  },
+  "works_by_medium": {
+    "anthology": 3,
+    "comic": 100,
+    "fan_film": 1,
+    "film": 9,
+    "game": 30,
+    "novel": 22,
+    "reference_book": 3,
+    "toy": 10
+  },
+  "source_types": {
+    "creator": 12,
+    "official": 112,
+    "project": 7,
+    "secondary": 70
+  },
+  "consumer_bindings": {
+    "avp-hunt-hive-tcg": 26,
+    "yautja-apex-hunt": 42,
+    "yautja-hive-warriors": 26,
+    "yautja-la-longue-chasse": 36
+  },
+  "runtime_consumers_installed": 0,
+  "visual_assets_certified": 0,
+  "whole_corpus_exhaustiveness_certified": false
+}

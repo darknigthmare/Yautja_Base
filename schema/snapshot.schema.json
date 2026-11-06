@@ -1,0 +1,505 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/darknigthmare/Yautja_Base/blob/main/schema/snapshot.schema.json",
+  "title": "Yautja_Base documentary snapshot v1",
+  "type": "object",
+  "required": [
+    "schema",
+    "version",
+    "as_of",
+    "dataset_sha256",
+    "policy",
+    "entities",
+    "works",
+    "sources",
+    "bindings",
+    "external_identities",
+    "relations",
+    "coverage"
+  ],
+  "properties": {
+    "schema": {
+      "const": "yautja-base/snapshot-v1"
+    },
+    "version": {
+      "type": "string"
+    },
+    "as_of": {
+      "type": "string",
+      "format": "date"
+    },
+    "dataset_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "policy": {
+      "type": "object",
+      "required": [
+        "scope",
+        "canon_universality_asserted",
+        "visual_fidelity_verified",
+        "gameplay_balance_included"
+      ],
+      "properties": {
+        "scope": {
+          "const": "documentary-reference"
+        },
+        "canon_universality_asserted": {
+          "const": false
+        },
+        "visual_fidelity_verified": {
+          "const": false
+        },
+        "gameplay_balance_included": {
+          "const": false
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "works": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/work"
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entity"
+      }
+    },
+    "bindings": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/binding"
+      }
+    },
+    "external_identities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/external"
+      }
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/relation"
+      }
+    },
+    "coverage": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/coverage"
+      }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "url",
+        "publisher",
+        "source_type",
+        "checked_at",
+        "supports"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._:-]*$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "source_type": {
+          "enum": [
+            "official",
+            "creator",
+            "secondary",
+            "project"
+          ]
+        },
+        "checked_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "supports": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "work": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "year",
+        "medium",
+        "continuity",
+        "source_ids",
+        "verification",
+        "notes",
+        "origin"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._:-]*$"
+        },
+        "title": {
+          "type": "string"
+        },
+        "year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "medium": {
+          "type": "string"
+        },
+        "continuity": {
+          "type": "string"
+        },
+        "source_ids": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "verification": {
+          "enum": [
+            "verified_metadata",
+            "to_verify"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        },
+        "origin": {
+          "enum": [
+            "licensed",
+            "fan",
+            "project_original"
+          ]
+        }
+      }
+    },
+    "trait": {
+      "type": "object",
+      "required": [
+        "label",
+        "value",
+        "source_ids",
+        "verification"
+      ],
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "value": {},
+        "source_ids": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "verification": {
+          "enum": [
+            "verified",
+            "to_verify"
+          ]
+        }
+      }
+    },
+    "entity": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "kind",
+        "aliases",
+        "continuity",
+        "origin",
+        "work_ids",
+        "source_ids",
+        "verification",
+        "summary",
+        "traits",
+        "visual_notes",
+        "notes",
+        "visual_fidelity_verified"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._:-]*$"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "enum": [
+            "character",
+            "species",
+            "faction",
+            "location",
+            "vehicle",
+            "weapon",
+            "equipment",
+            "culture",
+            "biology",
+            "effect",
+            "animation",
+            "gameplay",
+            "cosmetic"
+          ]
+        },
+        "aliases": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "continuity": {
+          "type": "string"
+        },
+        "origin": {
+          "enum": [
+            "licensed",
+            "fan",
+            "project_original"
+          ]
+        },
+        "work_ids": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "source_ids": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "verification": {
+          "enum": [
+            "verified",
+            "partial",
+            "to_verify"
+          ]
+        },
+        "summary": {
+          "type": "string"
+        },
+        "traits": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/trait"
+          }
+        },
+        "visual_notes": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "notes": {
+          "type": "string"
+        },
+        "visual_fidelity_verified": {
+          "const": false
+        }
+      }
+    },
+    "binding": {
+      "type": "object",
+      "required": [
+        "id",
+        "consumer",
+        "local_id",
+        "collection",
+        "entity_id",
+        "relationship",
+        "source",
+        "visual_fidelity_verified"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._:-]*$"
+        },
+        "consumer": {
+          "type": "string"
+        },
+        "local_id": {
+          "type": "string"
+        },
+        "collection": {
+          "type": "string"
+        },
+        "entity_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._:-]*$"
+        },
+        "relationship": {
+          "const": "documentary_reference"
+        },
+        "source": {
+          "type": "object",
+          "required": [
+            "repository",
+            "path",
+            "commit",
+            "visibility"
+          ],
+          "properties": {
+            "commit": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{40}$"
+            },
+            "visibility": {
+              "const": "public"
+            }
+          }
+        },
+        "visual_fidelity_verified": {
+          "const": false
+        }
+      }
+    },
+    "external": {
+      "type": "object",
+      "required": [
+        "id",
+        "namespace",
+        "external_id",
+        "entity_id",
+        "source"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._:-]*$"
+        },
+        "namespace": {
+          "const": "alien_base"
+        },
+        "external_id": {
+          "type": "string"
+        },
+        "entity_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._:-]*$"
+        },
+        "source": {
+          "type": "object"
+        }
+      }
+    },
+    "relation": {
+      "type": "object",
+      "required": [
+        "id",
+        "from_id",
+        "to_id",
+        "relationship",
+        "verification",
+        "source_ids",
+        "note"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "from_id": {
+          "type": "string"
+        },
+        "to_id": {
+          "type": "string"
+        },
+        "relationship": {
+          "enum": [
+            "game_variant_of",
+            "adaptation_counterpart",
+            "related_reference"
+          ]
+        },
+        "verification": {
+          "enum": [
+            "verified",
+            "partial",
+            "to_verify"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "required": [
+        "id",
+        "work_id",
+        "area",
+        "status",
+        "remaining"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "work_id": {
+          "type": "string"
+        },
+        "area": {
+          "type": "string"
+        },
+        "status": {
+          "enum": [
+            "partial",
+            "indexed",
+            "to_verify"
+          ]
+        },
+        "remaining": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

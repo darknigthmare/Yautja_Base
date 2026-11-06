@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "intake_id": "intake-apex-skins-boar-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "boar_lost_tribe",
+      "name": "Boar — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-apex-skins-shaman-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "shaman_lost_tribe",
+      "name": "Shaman — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-apex-skins-snake-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "snake_lost_tribe",
+      "name": "Snake — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-apex-skins-guardian-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "guardian_lost_tribe",
+      "name": "Guardian — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-apex-skins-stalker-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "stalker_lost_tribe",
+      "name": "Stalker — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-apex-skins-warrior-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "warrior_lost_tribe",
+      "name": "Warrior — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-apex-skins-armored-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "armored_lost_tribe",
+      "name": "Armored Lost — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-apex-skins-scout-lost-tribe",
+      "consumer": "yautja-apex-hunt",
+      "collection": "apex-skins",
+      "local_id": "scout_lost_tribe",
+      "name": "Scout — Lost Tribe",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-single-scythe",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "single_scythe",
+      "name": "Extended Single Scythe Wristblade",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-super-cleaver",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "super_cleaver",
+      "name": "Super Scythe Arm Cleaver",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-tri-maul",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "tri_maul",
+      "name": "Tri-Blade Maul",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-broadsword",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "broadsword",
+      "name": "Ceremonial Yautja Broadsword",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-daggers",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "daggers",
+      "name": "Ceremonial Yautja Daggers",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-pirate-hook",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "pirate_hook",
+      "name": "Pirate Arm Hook",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-glaive",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "glaive",
+      "name": "Yautja Glaive Spear",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-shuriken",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "shuriken",
+      "name": "6-Blade Telescopic Shuriken",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-speargun",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "speargun",
+      "name": "Laser Needle SpearGun",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-pistol",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "plasma_pistol",
+      "name": "Handheld Plasma Pistol",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-gatling-plasma",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "gatling_plasma",
+      "name": "Gatling Plasma Heavy Cannon",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-burner-rifle",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "burner_rifle",
+      "name": "Burner Plasma Rifle",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-whip",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "plasma_whip",
+      "name": "Vertebrae Plasma Whip",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-turret",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "plasma_turret",
+      "name": "Plasma Deployable Sentry Turret",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-mines",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "plasma_mines",
+      "name": "Proximity Plasma Trip-Mines",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-emp-mine",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "emp_mine",
+      "name": "Sonic EMP Disruption Mine",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-hive-armory-audio-lure",
+      "consumer": "yautja-hive-warriors",
+      "collection": "hive-armory",
+      "local_id": "audio_lure",
+      "name": "Audio Lure & Voice Mimicry Module",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-boar",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "boar",
+      "name": "Boar Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-shaman",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "shaman",
+      "name": "Shaman",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-lost-borg",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "lost-borg",
+      "name": "Lost Predator / Borg",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-snake",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "snake",
+      "name": "Snake Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-warrior",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "warrior",
+      "name": "Warrior Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-guardian",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "guardian",
+      "name": "Guardian Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-lost-scout",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "lost-scout",
+      "name": "Scout Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-lost-stalker",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "lost-stalker",
+      "name": "Stalker Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-ancient-warrior",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "ancient-warrior",
+      "name": "Ancient Warrior",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-temple-guard",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "temple-guard",
+      "name": "Temple Guard",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-youngblood",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "youngblood",
+      "name": "Youngblood Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-bull",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "bull",
+      "name": "Bull Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-bonegrill",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "bonegrill",
+      "name": "Bonegrill Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-emissary-one",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "emissary-one",
+      "name": "Emissary Predator 1",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-emissary-two",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "emissary-two",
+      "name": "Emissary Predator 2",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-captive",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "kok-captive",
+      "name": "Captive Yautja — individu sans nom officiel",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-arena-guard",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "kok-arena-guard",
+      "name": "Arena Guard — archétype collectif",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-long-hunters-dek-father",
+      "consumer": "yautja-la-longue-chasse",
+      "collection": "long-hunters",
+      "local_id": "dek-father",
+      "name": "Njohrr — père de Dek",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-UNBLOODED",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_UNBLOODED",
+      "name": "Unblooded Yautja",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-YOUNG-BLOOD",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_YOUNG_BLOOD",
+      "name": "Young Blood",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ELITE",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_ELITE",
+      "name": "Elite Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ELDER",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_ELDER",
+      "name": "Elder Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-CLAN-LEADER",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_CLAN_LEADER",
+      "name": "Clan Leader",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ANCIENT",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_ANCIENT",
+      "name": "Ancient Predator",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ENFORCER",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_ENFORCER",
+      "name": "Enforcer",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-BAD-BLOOD",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_BAD_BLOOD",
+      "name": "Bad Blood",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-HOUND",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_HOUND",
+      "name": "Predator Hound",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-TEMPLE-GUARD",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_TEMPLE_GUARD",
+      "name": "Temple Guard",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-YAQUITA",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_YAQUITA",
+      "name": "Yaquita — Chasseur sans jambes",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-EMISSARY-A",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_EMISSARY_A",
+      "name": "Emissary Predator A",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-EMISSARY-B",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_EMISSARY_B",
+      "name": "Emissary Predator B",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-SCIENTIST",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "Y_SCIENTIST",
+      "name": "Scientifique Yautja — Intelligentsia",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-HUNT-CODE",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "T_Y_HUNT_CODE",
+      "name": "Code de la chasse",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-CLAIM-TROPHY",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "T_Y_CLAIM_TROPHY",
+      "name": "Réclamer le trophée",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-THERMAL",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "T_Y_THERMAL",
+      "name": "Vision thermique",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-CLOAK",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "T_Y_CLOAK",
+      "name": "Cycle de camouflage",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-BLOODING",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "T_Y_BLOODING",
+      "name": "Rituel du Blooding",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-NET-TRAP",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "T_Y_NET_TRAP",
+      "name": "Piège au filet",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-CHALLENGE",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "T_Y_CHALLENGE",
+      "name": "Rugissement de défi",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-VAL-VERDE",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "L_VAL_VERDE",
+      "name": "Jungle de Val Verde",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-YAUTJA-SHIP",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "L_YAUTJA_SHIP",
+      "name": "Vaisseau mère Yautja",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-PROTO-LAB",
+      "consumer": "avp-hunt-hive-tcg",
+      "collection": "tcg-cards",
+      "local_id": "L_PROTO_LAB",
+      "name": "Laboratoire Stargazer — version coupée",
+      "status": "unresolved",
+      "reason": "Identité, œuvre, attribution ou variante à examiner; aucun rapprochement automatique."
+    }
+  ]
+}

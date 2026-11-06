@@ -1,0 +1,1636 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "intake_id": "intake-apex-skins-jungle-1987",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-jungle-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-city-1990",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-city-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-elder-lost-tribe",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-elder"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-boar-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-shaman-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-snake-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-guardian-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-stalker-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-warrior-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-armored-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-scout-lost-tribe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-scar-avp",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-scar"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-celtic-avp",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-celtic"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-chopper-avp",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-chopper"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-wolf-avpr",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-wolf"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-berserker-2010",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-berserker"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-falconer-2010",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-falconer"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-tracker-2010",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-tracker"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-fugitive-2018",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-fugitive"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-feral-2022",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-feral"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-kok-viking-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-killer-viking"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-kok-feudal-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-killer-samurai"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-kok-wartime-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-killer-pilot"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-dek-badlands",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-dek"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-kwei-badlands",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-kwei"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-alpha-yautja",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-alpha"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-captured-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-captured"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-cleopatra-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-cleopatra"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-exiled-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-exiled"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-bionic-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-bionic"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-emissary-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-emissary"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-valkyrie-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-valkyrie"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-amazon-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-amazon"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-pirate-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-pirate"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-mr-black-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-mr-black"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-gladiator-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-gladiator"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-anubis-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-anubis"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-exalted-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-exalted"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-witch-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-witch"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-oni-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-oni"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-jotun-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-jotun"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-father-hg",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-father"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-ahab-comic",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-ahab"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-scarface-game",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-concrete-scarface"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-dark-avp2010",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-2010-dark"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-machiko-yautja",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-machiko"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-samurai-yautja",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-samurai"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-viking-yautja",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-viking"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-cyborg-yautja",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-project-apex-cyborg"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-apex-skins-deadend-fanfilm",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-project-apex-deadend-homage"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-characters-jungle-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-jungle-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-characters-wolf-predator",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-wolf"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-characters-alpha-predator",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-alpha"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-characters-feral-predator",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-feral"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-characters-samurai-predator",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-samurai"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-characters-viking-predator",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-viking"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-characters-city-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-city-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-wristblades",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-wristblades-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-single-scythe",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-super-cleaver",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-tri-maul",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-broadsword",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-katana",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-katana"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-alpha-sickle",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-alpha-sickle"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-viking-axe",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-battle-axe"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-daggers",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-war-club",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-war-club"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-feral-shield",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-shield-prey"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-pirate-hook",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-combistick",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-combistick-p2"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-glaive",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-smart-disc",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-smart-disc-p2"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-shuriken",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-compound-bow",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-yautja-bow"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-crossbow",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-boltgun-prey"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-speargun",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-caster",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-plasmacaster-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-dual-caster",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-dual-plasmacasters-wolf"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-pistol",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-gatling-plasma",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-burner-rifle",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-whip",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-netgun",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-netgun"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-turret",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-plasma-mines",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-emp-mine",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-bear-trap",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-bear-trap"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-audio-lure",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-medicomp",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-medicomp-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-acid-solvent",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-dissolving-liquid-wolf"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-cloak",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-cloak-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-thermal-mask",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-biomask-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-hive-armory-nuke-gauntlet",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-self-destruct-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-jungle-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-jungle-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-city-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-city-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-greyback",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-elder"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-boar",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-shaman",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-lost-borg",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-snake",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-warrior",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-guardian",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-lost-scout",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-lost-stalker",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-scar",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-scar"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-celtic",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-celtic"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-chopper",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-chopper"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-avp-elder",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-elder-avp"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-ancient-warrior",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-temple-guard",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-youngblood",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-wolf",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-wolf"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-bull",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-bonegrill",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-classic-captive",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-classic"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-berserker",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-berserker"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-falconer",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-falconer"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-tracker",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-tracker"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-fugitive",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-fugitive"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-assassin",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-upgrade"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-emissary-one",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-emissary-two",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-feral-hunter",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-feral"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-jotun",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-killer-viking"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-oni",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-killer-samurai"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-pilot",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-killer-pilot"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-warlord",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-grendel-king"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-captive",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-kok-arena-guard",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-dek",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-dek"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-kwei",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-kwei"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-dek-father",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-scarface",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-concrete-scarface"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-stone-heart",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-concrete-stone-heart"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-alpha",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-alpha"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-samurai",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-samurai"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-valkyrie",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-valkyrie"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-cleopatra",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-cleopatra"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-bionic",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-bionic"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-witch",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-witch"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-broken-tusk",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-broken-tusk",
+        "yautja-print-dachande"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-ahab",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-ahab"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-big-mama",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-big-mama"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-enforcer",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-enforcer"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-bad-blood-comic",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-bad-blood"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-long-hunters-hashori",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-hashori"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-UNBLOODED",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-YOUNG-BLOOD",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ELITE",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ELDER",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-CLAN-LEADER",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ANCIENT",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-ENFORCER",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-BAD-BLOOD",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-JUNGLE-HUNTER",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-jungle-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-CITY-HUNTER",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-city-hunter"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-SCAR",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-scar"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-CELTIC",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-celtic"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-CHOPPER",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-chopper"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-WOLF",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-wolf"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-BERSERKER",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-berserker"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-FALCONER",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-falconer"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-TRACKER",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-tracker"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-HOUND",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-FERAL",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-feral"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-SAMURAI",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-samurai"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-GLADIATOR",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-game-phg-class-gladiator"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-TEMPLE-GUARD",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-AHAB",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-ahab"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-SHESH-KUK",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-print-shesh-kuk"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-YAQUITA",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-EMISSARY-A",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-EMISSARY-B",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-Y-SCIENTIST",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-HUNT-CODE",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-CLAIM-TROPHY",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-THERMAL",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-CLOAK",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-SELF-DESTRUCT",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-self-destruct-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-BLOODING",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-NET-TRAP",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-T-Y-CHALLENGE",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-WRISTBLADES",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-wristblades-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-PLASMACASTER",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-plasmacaster-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-COMBISTICK",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-combistick-p2"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-SMART-DISC",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-smart-disc-p2"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-NET-GUN",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-netgun"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-BIOMASK",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-biomask-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-MEDICOMP",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-medicomp-1987"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-RAZOR-WHIP",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-razor-whip-wolf"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-EQ-FALCON-DRONE",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-falconer-drone"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-VAL-VERDE",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-LA1997",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-los-angeles-1997"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-PRESERVE",
+      "status": "documentary_links_prepared",
+      "entity_ids": [
+        "yautja-film-game-preserve-planet"
+      ],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-YAUTJA-SHIP",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "intake_id": "intake-tcg-cards-L-PROTO-LAB",
+      "status": "unresolved",
+      "entity_ids": [],
+      "canon_verified": false,
+      "visual_fidelity_verified": false
+    }
+  ]
+}

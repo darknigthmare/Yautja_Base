@@ -1,0 +1,17 @@
+{
+  "name": "@darknigthmare/yautja-base",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Référentiel documentaire Yautja, Predator et AVP, sourcé et partagé entre jeux.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "exports": { ".": "./src/index.mjs" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "npm run validate && npm test && node scripts/build.mjs --check",
+    "query": "node scripts/query.mjs",
+    "export": "node scripts/export.mjs"
+  }
+}

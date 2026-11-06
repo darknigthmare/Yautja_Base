@@ -1,0 +1,1892 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "src-film-archives",
+      "title": "Predator Archives",
+      "url": "https://thewaltdisneycompany.com/news/predator-archives/",
+      "publisher": "The Walt Disney Company",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Conservation de costumes, masques et armes de 1987 à 2018 ; consultation pour Badlands."
+    },
+    {
+      "id": "src-film-avp",
+      "title": "Alien vs. Predator — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/alien-vs-predator",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Date, pyramide antarctique automatisée, rite de passage et alliance avec une humaine."
+    },
+    {
+      "id": "src-film-avp-plot",
+      "title": "AVP: Alien vs. Predator — plot summaries",
+      "url": "https://www.imdb.com/title/tt0370263/plotsummary/",
+      "publisher": "IMDb",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Bouvetøya, Alexa Woods, Sebastian De Rosa et reconnaissance finale ; synopsis contributifs."
+    },
+    {
+      "id": "src-film-avp-wiki",
+      "title": "Alien vs. Predator (film)",
+      "url": "https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Charles Bishop Weyland, chasseurs Scar/Celtic/Chopper, pyramide et expédition."
+    },
+    {
+      "id": "src-film-avpr",
+      "title": "Aliens vs. Predator: Requiem — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/aliens-vs-predator-requiem",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Date, réalisateurs, distribution et affrontement terrestre."
+    },
+    {
+      "id": "src-film-avpr-faq",
+      "title": "Aliens vs. Predator: Requiem — FAQ",
+      "url": "https://www.imdb.com/title/tt0758730/faq/",
+      "publisher": "IMDb",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Wolf nommé dans le scénario, rôle de nettoyeur et signal de détresse ; FAQ contributive."
+    },
+    {
+      "id": "src-film-avpr-wiki",
+      "title": "Aliens vs. Predator: Requiem",
+      "url": "https://en.wikipedia.org/wiki/Aliens_vs._Predator%3A_Requiem",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Wolf, Predalien, Kelly, Molly, Dallas, Ricky et Gunnison."
+    },
+    {
+      "id": "src-film-badlands",
+      "title": "Predator: Badlands — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/predator-badlands",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Film, distribution, jeune Predator exclu de son clan et Thia."
+    },
+    {
+      "id": "src-film-badlands-disney",
+      "title": "Everything You Need to Know About Predator: Badlands",
+      "url": "https://thewaltdisneycompany.com/news/predator-badlands/",
+      "publisher": "The Walt Disney Company",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Article du 7 novembre 2025 : Dek, Thia, Kalisk, équipement à gagner, première chasse et récit du point de vue du Predator."
+    },
+    {
+      "id": "src-film-badlands-es",
+      "title": "Predator: Badlands — sinopsis",
+      "url": "https://es.wikipedia.org/wiki/Predator%3A_Badlands",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Tessa, MU/TH/UR, Bud et liens avec le Kalisk ; vérification primaire encore souhaitable."
+    },
+    {
+      "id": "src-film-badlands-language",
+      "title": "Predator: Badlands propels Predator perspective at Comic-Con",
+      "url": "https://www.reuters.com/business/media-telecom/predator-badlands-propels-predator-perspective-comic-con-2025-07-26/",
+      "publisher": "Reuters",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Travail de Dimitrius Schuster-Koloamatangi sur la langue yautja, présenté au Comic-Con 2025."
+    },
+    {
+      "id": "src-film-badlands-stream",
+      "title": "Predator: Badlands streams exclusively on Disney+ February 12",
+      "url": "https://press.disney.co.uk/news/predator-badlands-streams-exclusively-on-disney-february-12",
+      "publisher": "Disney UK Press",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Annonce de diffusion en février 2026 confirmant une œuvre sortie, et non un projet à venir."
+    },
+    {
+      "id": "src-film-badlands-wiki",
+      "title": "Predator: Badlands",
+      "url": "https://en.wikipedia.org/wiki/Predator%3A_Badlands",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées de sortie et statut de Thia, synthétique Weyland-Yutani."
+    },
+    {
+      "id": "src-film-dead-end-host",
+      "title": "Batman: Dead End — fan film",
+      "url": "https://www.theforce.net/fanfilms/shortfilms/batman_deadend/index.asp",
+      "publisher": "TheForce.net",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Présentation et crédits du fan film diffusé au Comic-Con 2003."
+    },
+    {
+      "id": "src-film-dead-end-interview",
+      "title": "Interview with Sandy Collora about Batman: Dead End",
+      "url": "https://legacy.aintitcool.com/node/15721",
+      "publisher": "Ain’t It Cool News / Sandy Collora",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Intentions du réalisateur et inspirations Batman, Alien et Predator."
+    },
+    {
+      "id": "src-film-dead-end-wiki",
+      "title": "Batman: Dead End",
+      "url": "https://en.wikipedia.org/wiki/Batman%3A_Dead_End",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Fan film de Sandy Collora, 2003, rencontre Batman / Alien / Predator."
+    },
+    {
+      "id": "src-film-kok",
+      "title": "Predator: Killer of Killers — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/predator-killer-of-killers",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Anthologie animée, trois périodes, guerrière viking, frères japonais, pilote de la Seconde Guerre mondiale."
+    },
+    {
+      "id": "src-film-kok-ending",
+      "title": "Predator: Killer of Killers ending explained",
+      "url": "https://www.radiotimes.com/movies/scifi/predator-killer-of-killers-ending-explained/",
+      "publisher": "Radio Times",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Capture, biostase et arène ; protagonistes et relation entre les frères."
+    },
+    {
+      "id": "src-film-kok-wiki",
+      "title": "Predator: Killer of Killers",
+      "url": "https://en.wikipedia.org/wiki/Predator%3A_Killer_of_Killers",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Ursa, Anders, Kenji, Kiyoshi, John Torres, Grendel King et arène."
+    },
+    {
+      "id": "src-film-p18",
+      "title": "The Predator — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/the-predator",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Date, génétique, anciens militaires et biologiste, distribution."
+    },
+    {
+      "id": "src-film-p18-wiki",
+      "title": "The Predator (film)",
+      "url": "https://en.wikipedia.org/wiki/The_Predator_(film)",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Personnages, Fugitive et Upgrade, chiens, laboratoire, technologie et événements du récit."
+    },
+    {
+      "id": "src-film-p2",
+      "title": "Predator 2 — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/predator-2",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Date, Mike Harrigan, LAPD, guerre de gangs, légendes des photographies."
+    },
+    {
+      "id": "src-film-p2-wiki",
+      "title": "Predator 2",
+      "url": "https://en.wikipedia.org/wiki/Predator_2",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Cadre fictionnel : Los Angeles en 1997 et conflit entre gangs."
+    },
+    {
+      "id": "src-film-p87",
+      "title": "Predator — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/predator",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Date, équipe artistique, Dutch, équipe militaire, jungle, camouflage et chasse sportive."
+    },
+    {
+      "id": "src-film-p87-wiki",
+      "title": "Predator (film)",
+      "url": "https://en.wikipedia.org/wiki/Predator_(film)",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Équipe de Dutch, rôles et production ; source de repérage secondaire."
+    },
+    {
+      "id": "src-film-predators",
+      "title": "Predators — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/predators",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Date, Royce, groupe de tueurs, planète extraterrestre, nouvelle génération de chasseurs."
+    },
+    {
+      "id": "src-film-predators-wiki",
+      "title": "Predators (2010 film)",
+      "url": "https://en.wikipedia.org/wiki/Predators_(2010_film)",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Désignations Classic, Tracker, Falconer, Berserker ; drone et particularité du masque."
+    },
+    {
+      "id": "src-film-prey",
+      "title": "Prey — fiche officielle",
+      "url": "https://www.20thcenturystudios.com/movies/prey",
+      "publisher": "20th Century Studios",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Date, Naru, Comanches, Grandes Plaines, Taabe identifié dans les légendes officielles."
+    },
+    {
+      "id": "src-film-prey-flintlock",
+      "title": "I’ll Show You How to Use It: Adolini’s Flintlock in Prey",
+      "url": "https://www.avpgalaxy.net/predator-movies/prey/ill-show-you-how-to-use-it-adolinis-flintlock-in-prey/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Pistolet Adolini, projectiles guidés par la visée du masque et bouclier du Feral."
+    },
+    {
+      "id": "src-film-supp-jungle",
+      "title": "Jungle Hunter Predator (1987) — biography and equipment",
+      "url": "https://www.avpgalaxy.net/predator/jungle-hunter/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Canon d’épaule, lames de poignet, masque, soins, autodestruction et capsule initiale ; source spécialisée secondaire."
+    },
+    {
+      "id": "src-film-supp-wolf",
+      "title": "Wolf Predator — biography and equipment",
+      "url": "https://www.avpgalaxy.net/predator/wolf/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Fouet, liquide dissolvant et nettoyage de l’épave ; description secondaire de Requiem."
+    },
+    {
+      "id": "src-film-supp-wolf-toy",
+      "title": "New S.H. MonsterArts Wolf Predator (Heavy Armed Version) Figure Images",
+      "url": "https://toynewsi.com/136-22190",
+      "publisher": "Toy News International",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Accessoires d’une figurine Wolf : deux canons, shuriken et fouet. Preuve de contenu du produit dérivé, pas preuve indépendante des propriétés à l’écran."
+    },
+    {
+      "id": "src-film-weapons-p2",
+      "title": "Every Version of the Predator Throughout History",
+      "url": "https://www.gamespot.com/gallery/every-version-of-the-predator-throughout-history/2900-2226/",
+      "publisher": "GameSpot",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Armes associées au chasseur urbain : filet, combistick, smart disc."
+    },
+    {
+      "id": "src-film-winston-p2",
+      "title": "Predator 2: Making the Predator Suits",
+      "url": "https://www.stanwinstonschool.com/blog/predator-2-making-the-predator-suits",
+      "publisher": "Stan Winston School of Character Arts",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Atelier des costumes, variantes de têtes, Elder, trophée Alien, flintlock et individualisation du chasseur urbain."
+    },
+    {
+      "id": "src-film-yard-badlands",
+      "title": "Inside the VFX of Predator: Badlands",
+      "url": "https://theyard-vfx.com/2026/01/20/inside-the-vfx-of-predator-badlands/",
+      "publisher": "The Yard VFX",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Visage numérique de Dek, mandibules, mécanique de Thia, réparation, Tessa et créatures."
+    },
+    {
+      "id": "src-film-yard-breakdown",
+      "title": "Predator: Badlands — VFX breakdown",
+      "url": "https://theyard-vfx.com/2026/01/27/predator-badlands-vfx-breakdown/",
+      "publisher": "The Yard VFX",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Yautja Prime, créatures et doublures numériques."
+    },
+    {
+      "id": "src-film-yard-cave",
+      "title": "Creatures take the lead in Predator: Badlands",
+      "url": "https://theyard-vfx.com/2026/04/01/creatures-take-the-lead-in-predator-badlands/",
+      "publisher": "The Yard VFX",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Créatures et duel dans la grotte de cristal."
+    },
+    {
+      "id": "src-film-yard-project",
+      "title": "Predator: Badlands — projet VFX",
+      "url": "https://theyard-vfx.com/title-item/predator-badlands/",
+      "publisher": "The Yard VFX",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Dek et Kwei, créatures, effets environnementaux et réparation mécanique de Thia."
+    },
+    {
+      "id": "src-game-avp-arcade",
+      "title": "Alien vs. Predator (1994) — Capcom arcade",
+      "url": "https://www.mobygames.com/game/63136/alien-vs-predator/",
+      "publisher": "MobyGames",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-arcade-manual",
+      "title": "Alien vs. Predator — Capcom operator manual",
+      "url": "https://manualzz.com/doc/8361957/capcom-alien-vs.-predator-user-manual",
+      "publisher": "Capcom, manuel original archivé sur Manualzz",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Document original de borne, millésime 1994. Pas une preuve pour toutes les identités de personnages."
+    },
+    {
+      "id": "src-game-avp-classic-manual",
+      "title": "Aliens versus Predator Classic 2000 — manual",
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3730/manuals/Aliens%20Versus%20Predator%20Classic%202000%20Manual.pdf?t=1579791217",
+      "publisher": "Rebellion / Fox, manuel distribué sur Steam",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Section Predator, pages imprimées 9–11; armes, énergie, camouflage, médecine, grappin."
+    },
+    {
+      "id": "src-game-avp-classic-store",
+      "title": "Aliens versus Predator Classic 2000 — Steam",
+      "url": "https://store.steampowered.com/app/3730/",
+      "publisher": "Rebellion / Steam",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-evolution",
+      "title": "Alien vs Predator: Evolution",
+      "url": "https://www.angrymobgames.com/avp-evolution/",
+      "publisher": "Angry Mob Games",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-evolution-story",
+      "title": "Alien vs Predator: Evolution — announcement trailer",
+      "url": "https://www.avpgalaxy.net/2013/01/28/new-avp-evolution-trailer-images/",
+      "publisher": "Fox / Angry Mob Games, communiqué reproduit par AvP Galaxy",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-extinction-creator",
+      "title": "Aliens versus Predator: Extinction — interview Zono",
+      "url": "https://www.avpunknown.com/games/2000/avpextinction",
+      "publisher": "Zono, entretien reproduit par AvP Unknown",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Entretien avec les développeurs; distinction nouveautés de jeu et références antérieures."
+    },
+    {
+      "id": "src-game-avp-extinction-units",
+      "title": "AvP Extinction: Predator Units & Upgrades Guide",
+      "url": "https://www.avpgalaxy.net/games/avp-extinction/predators/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Index des unités; détails chiffrés non importés sans contrôle du jeu."
+    },
+    {
+      "id": "src-game-avp-gb",
+      "title": "Alien vs Predator: The Last of His Clan (1993)",
+      "url": "https://www.mobygames.com/game/24743/alien-vs-predator-the-last-of-his-clan/",
+      "publisher": "MobyGames",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-jaguar-manual",
+      "title": "Alien vs Predator — Atari Jaguar manual",
+      "url": "https://atariage.com/manual_html_page.php?SoftwareID=2538",
+      "publisher": "Atari / Rebellion, manuel original archivé sur AtariAge",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Scénario Camp Golgotha; arsenal, rites et système de points propres à la version Jaguar."
+    },
+    {
+      "id": "src-game-avp-mobile-requiem",
+      "title": "AVP: Requiem (2007) — mobile",
+      "url": "https://www.mobygames.com/game/53286/avp-requiem/",
+      "publisher": "MobyGames",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-mobile2004",
+      "title": "Alien vs. Predator — Superscape, mobile",
+      "url": "https://gamefaqs.gamespot.com/mobile/924209-alien-vs-predator",
+      "publisher": "GameFAQs",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-mobile2004-elite",
+      "title": "Alien vs. Predator by Elite — mobile",
+      "url": "https://gamefaqs.gamespot.com/mobile/927673-alien-vs-predator-by-elite",
+      "publisher": "GameFAQs",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-primal",
+      "title": "Aliens Versus Predator 2: Primal Hunt (2002)",
+      "url": "https://www.mobygames.com/game/8449/aliens-versus-predator-2-primal-hunt/",
+      "publisher": "MobyGames",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-requiem-psp",
+      "title": "Aliens vs. Predator: Requiem — release details",
+      "url": "https://gamefaqs.gamespot.com/psp/942783-aliens-vs-predator-requiem/data",
+      "publisher": "GameFAQs, notice commerciale archivée",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp-snes",
+      "title": "Alien vs Predator (1993) — SNES",
+      "url": "https://www.mobygames.com/game/20503/alien-vs-predator/",
+      "publisher": "MobyGames",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp2-index",
+      "title": "Aliens versus Predator 2 (2001): Gameplay & Development",
+      "url": "https://www.avpgalaxy.net/games/avp2/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp2-manual",
+      "title": "Aliens versus Predator 2 — manual",
+      "url": "https://manuals.plus/m/80b7f8b338cc0a93dfd1de5b751b4d6e271e91eed31f934119d52710179952f2",
+      "publisher": "Fox / Monolith, manuel original archivé sur Manuals+",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Pages imprimées 31–34: arsenal, outils, visions et saut Predator. Archive du document primaire, pas avis du site."
+    },
+    {
+      "id": "src-game-avp2-prince",
+      "title": "Prince — character entry",
+      "url": "https://avp.fandom.com/wiki/Prince",
+      "publisher": "Xenopedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Identifie le protagoniste d’AvP2; les hypothèses de rang et ascendance ne sont pas importées."
+    },
+    {
+      "id": "src-game-avp2010-dark",
+      "title": "Dark — character entry",
+      "url": "https://avp.fandom.com/wiki/Dark",
+      "publisher": "Xenopedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Nomenclature du protagoniste issue du skin multijoueur, et non d’un nom prononcé dans la campagne."
+    },
+    {
+      "id": "src-game-avp2010-index",
+      "title": "Aliens vs. Predator (2010 video game)",
+      "url": "https://avp.fandom.com/wiki/Aliens_vs._Predator_%282010_video_game%29",
+      "publisher": "Xenopedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-avp2010-lord",
+      "title": "Lord — character entry",
+      "url": "https://avp.fandom.com/wiki/Lord",
+      "publisher": "Xenopedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Ancien de la campagne et nom provenant d’un skin multijoueur; sarcophage et bio-casque."
+    },
+    {
+      "id": "src-game-avp2010-store",
+      "title": "Aliens vs. Predator — Steam",
+      "url": "https://store.steampowered.com/app/10680/Aliens_vs_Predator",
+      "publisher": "SEGA / Steam",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-capcom-hunter-guide",
+      "title": "Alien vs. Predator — Predator Hunter guide (2006)",
+      "url": "https://gamefaqs.gamespot.com/arcade/583716-alien-vs-predator/faqs/41975",
+      "publisher": "Kevin He / VicViper_Mk2 / GameFAQs",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Guide joueur: catégories d’ennemis, armes ramassées et gestes du Hunter. Nomenclature à comparer à l’affichage de la borne."
+    },
+    {
+      "id": "src-game-capcom-neca-aliens",
+      "title": "Alien vs Predator Arcade — Alien assortment",
+      "url": "https://store.necaonline.com/blogs/news/shipping-this-week-it-accessory-set-and-alien-vs-predator-arcade-aliens-assortment-1",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Publication officielle sous licence: Chrysalis, Razor Claws et Arachnoid sont explicitement des adversaires du jeu 1994."
+    },
+    {
+      "id": "src-game-classic-manual-archive",
+      "title": "Aliens versus Predator (1999) — manual archive",
+      "url": "https://www.mogelpower.de/manuals/Aliens_versus_1999_Predator_Handbuch_Englisch.pdf",
+      "publisher": "Fox / Rebellion, manuel original archivé sur Mogelpower",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Précise le Speargun et distingue son fonctionnement de celui d’AvP2."
+    },
+    {
+      "id": "src-game-concrete-arsenal",
+      "title": "Predator Concrete Jungle — arsenal index",
+      "url": "https://weyland.fandom.com/wiki/Predator%3A_Concrete_Jungle",
+      "publisher": "Weyland-Yutani corporation Wiki",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Index secondaire de l’arsenal; noms et propriétés à confronter au menu du jeu."
+    },
+    {
+      "id": "src-game-concrete-index",
+      "title": "Predator: Concrete Jungle (2005) | Info & Development",
+      "url": "https://www.avpgalaxy.net/games/predator-concrete-jungle/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-concrete-neca",
+      "title": "Video Game Appearance Ultimate Scarface Predator",
+      "url": "https://store.necaonline.com/blogs/behind-the-scenes/closer-look-video-game-appearance-ultimate-scarface-predator",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Produit sous licence explicitement fondé sur Concrete Jungle; Scarface, Neonopolis, exile et accessoires."
+    },
+    {
+      "id": "src-game-concrete-walkthrough",
+      "title": "Predator: Concrete Jungle — guide SubSane",
+      "url": "https://gamefaqs.gamespot.com/ps2/920520-predator-concrete-jungle/faqs/36860",
+      "publisher": "SubSane / GameFAQs",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Guide joueur du 15 juillet 2005; repérage des niveaux, outils et adversaires à contrôler sur la copie du jeu."
+    },
+    {
+      "id": "src-game-concrete-walkthrough2",
+      "title": "Concrete Jungle — walkthrough and unlock guide",
+      "url": "https://www.avpgalaxy.net/games/predator-concrete-jungle/walkthrough/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-concrete-xenopedia",
+      "title": "Predator: Concrete Jungle (video game)",
+      "url": "https://avp.fandom.com/wiki/Predator%3A_Concrete_Jungle_%28video_game%29",
+      "publisher": "Xenopedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-fortnite-predator",
+      "title": "Predator Joins the Fortnite Chapter 2 Season 5 Battle Pass",
+      "url": "https://www.fortnite.com/news/predator-joins-the-fortnite-chapter-2-season-5-battle-pass",
+      "publisher": "Epic Games",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-franchise-game-list",
+      "title": "List of Alien, Predator, and Alien vs. Predator games",
+      "url": "https://en.wikipedia.org/wiki/List_of_Alien%2C_Predator%2C_and_Alien_vs._Predator_games",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Pistes bibliographiques pour titres mobiles anciens; aucune validation de lore détaillé."
+    },
+    {
+      "id": "src-game-ghosts-predator",
+      "title": "Call of Duty: Ghosts — Devastation",
+      "url": "https://store.steampowered.com/app/259251/Call_of_Duty_Ghosts_Devastation/",
+      "publisher": "Activision / Steam",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-mkx-predator",
+      "title": "Mortal Kombat X — Predator DLC",
+      "url": "https://store.steampowered.com/app/351550/Predator/",
+      "publisher": "NetherRealm / Warner Bros. / Steam",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-225",
+      "title": "Patch Notes 2.25 — bots and armor styles",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-2-25/23620",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-about",
+      "title": "About — missions, factions and trophy hunting",
+      "url": "https://predator.illfonic.com/about/",
+      "publisher": "IllFonic",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-airstrip",
+      "title": "Predator: Hunting Grounds comes to Steam with April update",
+      "url": "https://blog.playstation.com/?p=348566",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-alpha114",
+      "title": "Patch Notes 1.14 — Alpha, katana and cosmetics",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-1-14/12068",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-anubis",
+      "title": "Patch Notes 3.2.0 — Anubis and Eye of Ra",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-3-2-0/36078",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-bionic242",
+      "title": "Patch Notes 2.42 — Bionic and Bone mask",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-2-42/28894",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-city116",
+      "title": "Patch 1.16 — City Hunter and Wrist Launcher",
+      "url": "https://forum.predator.illfonic.com/t/patch-1-16/12536",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-cleopatra",
+      "title": "Become the fearsome Cleopatra with this month’s new additions",
+      "url": "https://blog.playstation.com/2021/08/31/become-the-fearsome-cleopatra-with-this-months-new-additions-to-predator-hunting-grounds/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-dante",
+      "title": "Marshawn Lynch arrives as Dante Beast Mode Jefferson",
+      "url": "https://blog.playstation.com/2020/12/08/marshawn-lynch-arrives-in-predator-hunting-grounds-as-dante-beast-mode-jefferson",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-deluxe",
+      "title": "Predator: Hunting Grounds — Édition numérique deluxe",
+      "url": "https://store.playstation.com/fr-fr/product/EP9000-CUSA16559_00-PHGDIGITALDELUXE",
+      "publisher": "PlayStation Store",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-dutch",
+      "title": "Dutch Arrives In Predator: Hunting Grounds",
+      "url": "https://blog.playstation.com/2020/05/26/dutch-arrives-in-predator-hunting-grounds/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-dutch87",
+      "title": "Dutch 87 and a Free Trial Coming to Predator: Hunting Grounds",
+      "url": "https://blog.playstation.com/2020/08/25/dutch-87-and-a-free-trial-coming-to-predator-hunting-grounds/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-emissary239",
+      "title": "Patch Notes 2.39 — Emissary",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-2-39/27316",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-exalted",
+      "title": "Exalted Predator is here!",
+      "url": "https://forum.predator.illfonic.com/t/exalted-predator-is-here/36265",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-excavation",
+      "title": "New map and mode arrive today in Predator: Hunting Grounds",
+      "url": "https://blog.playstation.com/?p=341556",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-exiled228",
+      "title": "Patch Notes 2.28 — Exiled, night maps and masks",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-2-28/24642",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-father",
+      "title": "The Father Predator joins the hunt! — patch 3.7.0",
+      "url": "https://forum.predator.illfonic.com/t/the-father-predator-joins-the-hunt/37649",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-feral300",
+      "title": "Patch Notes 3.0.0 — Feral and ninth generation update",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-3-0-0/33939",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-feral310",
+      "title": "Patch Notes 3.1.0 — Feral equipment",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-3-1-0/34699",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-fireteam",
+      "title": "The Fireteam — classes",
+      "url": "https://predator.illfonic.com/the-fireteam/",
+      "publisher": "IllFonic",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-gladiator",
+      "title": "Gladiator Predator is here!",
+      "url": "https://forum.predator.illfonic.com/t/gladiator-predator-is-here/34743",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-home",
+      "title": "Predator: Hunting Grounds — catalogue officiel",
+      "url": "https://predator.illfonic.com/",
+      "publisher": "IllFonic",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Catalogue DLC officiel; noms des classes et ensembles commercialisés."
+    },
+    {
+      "id": "src-game-phg-isabelle",
+      "title": "Sniper Isabelle comes to Predator: Hunting Grounds in new DLC",
+      "url": "https://blog.playstation.com/2021/06/29/sniper-isabelle-comes-to-predator-hunting-grounds-in-new-dlc/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-jotun",
+      "title": "The Jotun Predator has arrived! — patch 3.6.0",
+      "url": "https://forum.predator.illfonic.com/t/the-jotun-predator-has-arrived/37412",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-june2020",
+      "title": "June free update now live in Predator: Hunting Grounds",
+      "url": "https://blog.playstation.com/2020/06/12/june-free-update-now-live-in-predator-hunting-grounds/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-maps-index",
+      "title": "Maps — Predator: Hunting Grounds",
+      "url": "https://hg.yautja.net/newbie/maps/",
+      "publisher": "hg.yautja.net",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Index communautaire des six cartes; topographie et variantes à contrôler en jeu."
+    },
+    {
+      "id": "src-game-phg-oni",
+      "title": "Oni Predator is here!",
+      "url": "https://forum.predator.illfonic.com/t/oni-predator-is-here/36985",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-party1",
+      "title": "Predator: Hunting Grounds introduces the Hunting Party",
+      "url": "https://blog.playstation.com/2021/12/15/predator-hunting-grounds-introduces-the-hunting-party/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-party2",
+      "title": "Hunting Party DLC Pack 2",
+      "url": "https://forum.predator.illfonic.com/t/hunting-party-dlc-pack-2/29712",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-party3",
+      "title": "Hunting Party DLC Pack 3 — patch 2.47",
+      "url": "https://forum.predator.illfonic.com/t/hunting-party-dlc-pack-3/29879",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-predator",
+      "title": "The Predator — classes, weapons and tech",
+      "url": "https://predator.illfonic.com/the-predator/",
+      "publisher": "IllFonic",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-samurai",
+      "title": "The Samurai Predator arrives in Predator: Hunting Grounds",
+      "url": "https://blog.playstation.com/2020/06/30/the-samurai-predator-arrives-in-predator-hunting-grounds/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-spec219",
+      "title": "Patch Notes 2.19 — Predator specializations",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-2-19/20975",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Noms et effets qualitatifs des quinze spécialisations introduites en 2.19; état historique, pas chiffres actuels."
+    },
+    {
+      "id": "src-game-phg-valkyrie",
+      "title": "New year, new mode, new content for Predator: Hunting Grounds",
+      "url": "https://blog.playstation.com/2021/02/16/new-year-new-mode-new-content-for-predator-hunting-grounds/",
+      "publisher": "IllFonic / PlayStation Blog",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-viking208",
+      "title": "Patch Notes 2.08 — Viking and cosmetic patterns",
+      "url": "https://forum.predator.illfonic.com/t/patch-notes-2-08/15883",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-phg-witch",
+      "title": "The Witch Predator has arrived!",
+      "url": "https://forum.predator.illfonic.com/t/the-witch-predator-has-arrived/36352",
+      "publisher": "IllFonic, premier message officiel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-predator-classic-index",
+      "title": "Predator (video game)",
+      "url": "https://en.wikipedia.org/wiki/Predator_%28video_game%29",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-predator2-index",
+      "title": "Predator 2 Games (1990–1992)",
+      "url": "https://www.avpgalaxy.net/games/predator-2/",
+      "publisher": "AvP Galaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-predators-mobile-creator",
+      "title": "Predators",
+      "url": "https://www.angrymobgames.com/predators/",
+      "publisher": "Angry Mob Games",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-predators-mobile-release",
+      "title": "Predators (2010) — releases",
+      "url": "https://www.mobygames.com/game/96457/predators/",
+      "publisher": "MobyGames",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-primal-ancient",
+      "title": "Ancient Predator (LV-1201)",
+      "url": "https://avp.fandom.com/wiki/Ancient_Predator_%28LV-1201%29",
+      "publisher": "Xenopedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-game-wildlands-predator",
+      "title": "Ghost Recon Wildlands — Predator challenge announcement",
+      "url": "https://news.ubisoft.com/en-us/article/5bMAmXswrJeBLSlnoResJT/ghost-recon-wildlands-legendary-movie-monster-the-predator-coming-in-free-dlc",
+      "publisher": "Ubisoft",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et éléments explicitement nommés dans la publication."
+    },
+    {
+      "id": "src-print-archie",
+      "title": "Archie Comics and Dark Horse Unveil the Unthinkable",
+      "url": "https://archiecomics.com/archie-comics-and-dark-horse-unveil-the-unthinkable-archie-meets-predator/",
+      "publisher": "Archie Comics",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Annonce du crossover 2015; ne pas le classer comme fan fiction.",
+      "retrieval_ref": "turn45search0"
+    },
+    {
+      "id": "src-print-archie2",
+      "title": "Revenge Comes to Riverdale in Archie vs. Predator 2",
+      "url": "https://archiecomics.com/revenge-comes-to-riverdale-in-archie-vs-predator-2/",
+      "publisher": "Archie Comics",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Cinq numéros à partir du 24/07/2019; Predator-Archie.",
+      "retrieval_ref": "turn45search1"
+    },
+    {
+      "id": "src-print-armageddon",
+      "title": "Alien vs. Predator: Armageddon (The Rage War #3)",
+      "url": "https://titanbooks.com/8396-alien-vs-predator-armageddon-the-rage-war-3/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Rage, Human Sphere et androïde Liliya.",
+      "retrieval_ref": "turn13view4"
+    },
+    {
+      "id": "src-print-avp-30",
+      "title": "Aliens vs. Predator: The Original Comics Series — 30th Anniversary Edition",
+      "url": "https://digital.darkhorse.com/books/47483ce0aec5466783599e38c9d0ac47/aliens-vs-predator-the-original-comics-series-30th-anniversary-edition",
+      "publisher": "Dark Horse",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Édition anniversaire 2020 et crédits du cycle original.",
+      "retrieval_ref": "turn8search6"
+    },
+    {
+      "id": "src-print-avp-comics-index",
+      "title": "Aliens vs. Predator (comics)",
+      "url": "https://en.wikipedia.org/wiki/Aliens_vs._Predator_(comics)",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Index bibliographique de récits AVP; certaines dates sont contradictoires.",
+      "retrieval_ref": "turn38view0"
+    },
+    {
+      "id": "src-print-avp-essential",
+      "title": "Aliens vs. Predator: The Essential Comics Volume 1",
+      "url": "https://digital.darkhorse.com/books/9bb496a44e944fcda26662b44db247be/aliens-vs-predator-the-essential-comics-volume-1",
+      "publisher": "Dark Horse",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Trilogie de Machiko: série originale, War, Three World War.",
+      "retrieval_ref": "turn8search5"
+    },
+    {
+      "id": "src-print-avp-fire-story",
+      "title": "Alien vs. Predator: Fire and Stone",
+      "url": "https://www.avpcentral.com/alien-vs-predator-fire-and-stone",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Repérage des quatre numéros, personnages et vaisseaux.",
+      "retrieval_ref": "turn28search0"
+    },
+    {
+      "id": "src-print-avp-novels-index",
+      "title": "List of Alien vs. Predator novels",
+      "url": "https://en.wikipedia.org/wiki/List_of_Alien_vs._Predator_novels",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Bibliographie initiale des romans Machiko et de la novélisation 2004.",
+      "retrieval_ref": "turn54search9"
+    },
+    {
+      "id": "src-print-avp-original-story",
+      "title": "Aliens vs. Predator (1990): Comic Overview",
+      "url": "https://www.avpcentral.com/aliens-vs-predator-1990",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Ryushi, Rhynth, Chigusa et première histoire de Machiko.",
+      "retrieval_ref": "turn43search0"
+    },
+    {
+      "id": "src-print-badlands-prequel",
+      "title": "Predator: Badlands (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/130732/predator_badlands_2025_1",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Préquelle officielle en collaboration avec Dan Trachtenberg; publication 12/11/2025.",
+      "retrieval_ref": "turn24search2"
+    },
+    {
+      "id": "src-print-batman-collection",
+      "title": "DC Comics/Dark Horse Comics: Batman vs. Predator",
+      "url": "https://www.dc.com/graphic-novels/dc-comics/dark-horse-comics-batman-vs-predator",
+      "publisher": "DC",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Recueil 2017 réunissant les trois mini-séries Batman/Predator.",
+      "retrieval_ref": "turn17search4"
+    },
+    {
+      "id": "src-print-black-panther",
+      "title": "Predator vs. Black Panther (2024) #1",
+      "url": "https://www.marvel.com/comics/issue/120985/predator_vs_black_panther_2024_1_variant/variant",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Wakanda, vibranium et jeune chasseur.",
+      "retrieval_ref": "turn24search5"
+    },
+    {
+      "id": "src-print-bloodshed",
+      "title": "Predator: Bloodshed #1",
+      "url": "https://prhcomics.com/book/?isbn=75960621517100111",
+      "publisher": "Penguin Random House / Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Parution 25/02/2026 et tournoi clandestin d’arts martiaux.",
+      "retrieval_ref": "turn26search2"
+    },
+    {
+      "id": "src-print-bw-blood",
+      "title": "Predator: Black, White & Blood Treasury Edition",
+      "url": "https://www.marvel.com/comics/collection/127227/predator_black_white_blood_treasury_edition_trade_paperback",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Recueil 2026 de la série 2025 #1–4; anthologie graphique.",
+      "retrieval_ref": "turn8search1"
+    },
+    {
+      "id": "src-print-deadliest",
+      "title": "Aliens vs. Predator: Deadliest of the Species",
+      "url": "https://www.avpcentral.com/aliens-vs-predator-deadliest-of-the-species",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Caryn, Big Mama, Toy et Liberté; repérage pour contrôle dans les numéros.",
+      "retrieval_ref": "turn43search2"
+    },
+    {
+      "id": "src-print-dh-backlist",
+      "title": "Dark Horse Backlist 2009",
+      "url": "https://images.darkhorse.com/common/salestools/catalogs/DH_Backlist_2009.pdf",
+      "publisher": "Dark Horse",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Catalogue des omnibus et des romans DH Press.",
+      "retrieval_ref": "turn20search8"
+    },
+    {
+      "id": "src-print-dredd",
+      "title": "Predator vs. Judge Dredd vs. Aliens",
+      "url": "https://digital.darkhorse.com/series/755/predator-vs-judge-dredd-vs-aliens",
+      "publisher": "Dark Horse",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Distingue les anciennes confrontations et le nouveau crossover triple.",
+      "retrieval_ref": "turn17search8"
+    },
+    {
+      "id": "src-print-dredd-1997",
+      "title": "Predator vs. Judge Dredd",
+      "url": "https://www.avpcentral.com/predator-vs-judge-dredd",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Numéros 1997 et rééditions; contrôle de dates nécessaire.",
+      "retrieval_ref": "turn47search1"
+    },
+    {
+      "id": "src-print-eyes-contents",
+      "title": "Predator: Eyes of the Demon — table des matières",
+      "url": "https://bryanthomasschmidt.net/predator-eyes-of-the-demon/",
+      "publisher": "Bryan Thomas Schmidt",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Quinze nouvelles, auteurs et pages initiales publiés par l’anthologiste.",
+      "retrieval_ref": "turn57search1"
+    },
+    {
+      "id": "src-print-eyes-demon",
+      "title": "Predator: Eyes of the Demon",
+      "url": "https://titanbooks.com/70955-predator-predator-eyes-of-the-demon/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Anthologie de quinze nouvelles; auteurs.",
+      "retrieval_ref": "turn13view6"
+    },
+    {
+      "id": "src-print-fire-stone",
+      "title": "Aliens Predator AVP Prometheus Fire and Stone",
+      "url": "https://digital.darkhorse.com/pages/51/aliens-predator-avp-prometheus-fire-and-stone",
+      "publisher": "Dark Horse",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Périmètre éditorial du cycle Fire and Stone.",
+      "retrieval_ref": "turn16search15"
+    },
+    {
+      "id": "src-print-flesh",
+      "title": "Predator: Flesh and Blood",
+      "url": "https://avp.fandom.com/wiki/Predator%3A_Flesh_and_Blood",
+      "publisher": "Xenopedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Famille Ciejek et Felicity; contrôle dans le roman nécessaire.",
+      "retrieval_ref": "turn21search4"
+    },
+    {
+      "id": "src-print-hashori",
+      "title": "Hashori: Widow Clan Hunter of the Rage War",
+      "url": "https://www.avpcentral.com/hashori-predator",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Hashori, Widow Clan et Zeere Za; référence de chapitre encore requise.",
+      "retrieval_ref": "turn54search6"
+    },
+    {
+      "id": "src-print-hunters-announcement",
+      "title": "Dark Horse Announces Predator: Hunters",
+      "url": "https://www.avpgalaxy.net/2017/02/10/dark-horse-announces-predator-hunters/",
+      "publisher": "AvPGalaxy",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Annonce et propos attribués à Chris Warner sur le retour de Nakai et Graves.",
+      "retrieval_ref": "turn43search35"
+    },
+    {
+      "id": "src-print-hunters-hunted",
+      "title": "The Predator: Hunters and Hunted — Official Movie Prequel",
+      "url": "https://titanbooks.com/9076-the-predator-hunters-and-hunted-official-movie-prequel/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Roger Elliott, Reapers et Project Stargazer.",
+      "retrieval_ref": "turn40view1"
+    },
+    {
+      "id": "src-print-hunters-story",
+      "title": "Predator: Hunters: Plot, Characters & Lore",
+      "url": "https://www.avpcentral.com/predator-hunters",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Équipe de Jaya Soames et liens avec Big Game, Bad Blood et Nemesis.",
+      "retrieval_ref": "turn43search19"
+    },
+    {
+      "id": "src-print-if-bleeds",
+      "title": "Predator: If It Bleeds",
+      "url": "https://titanbooks.com/9198-predator-if-it-bleeds/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Anthologie 2017; ne valide pas individuellement ses nouvelles.",
+      "retrieval_ref": "turn6search32"
+    },
+    {
+      "id": "src-print-if-bleeds-contents",
+      "title": "Predator: If It Bleeds — table des matières de l’éditeur scientifique",
+      "url": "https://bryanthomasschmidt.net/writings/anthologies-edited/predator-if-it-bleeds/",
+      "publisher": "Bryan Thomas Schmidt",
+      "source_type": "creator",
+      "checked_at": "2026-11-06",
+      "supports": "Liste des seize nouvelles; titre Tin Warrior(s) à contrôler sur l’exemplaire.",
+      "retrieval_ref": "turn56search0"
+    },
+    {
+      "id": "src-print-incursion",
+      "title": "Predator: Incursion (The Rage War #1)",
+      "url": "https://titanbooks.com/8397-predator-incursion-the-rage-war-1/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Trilogie de Tim Lebbon; déplacement de vaisseaux Yautja devant les Xénomorphes.",
+      "retrieval_ref": "turn13view2"
+    },
+    {
+      "id": "src-print-invasion",
+      "title": "Alien: Invasion (The Rage War #2)",
+      "url": "https://titanbooks.com/8125-alien-invasion-the-rage-war-2/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Alliance humains/Predators contre la Rage dans cette trilogie.",
+      "retrieval_ref": "turn40view2"
+    },
+    {
+      "id": "src-print-jla",
+      "title": "JLA versus Predator — GCD",
+      "url": "https://www.comics.org/issue/356506/",
+      "publisher": "Grand Comics Database",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Crédits et Predators génétiquement modifiés reproduisant les pouvoirs de la JLA.",
+      "retrieval_ref": "turn48search2"
+    },
+    {
+      "id": "src-print-life-death",
+      "title": "Aliens Predator Prometheus AVP: The Complete Life and Death",
+      "url": "https://digital.darkhorse.com/books/29071bbe51d54a0e915d88c04668669c/aliens-predator-prometheus-avp-the-complete-life-and-death-hc",
+      "publisher": "Dark Horse",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Existence du recueil du cycle Life and Death.",
+      "retrieval_ref": "turn16search9"
+    },
+    {
+      "id": "src-print-magnus",
+      "title": "Predator Versus Magnus, Robot Fighter Vol 1",
+      "url": "https://valiant.fandom.com/wiki/Predator_Versus_Magnus%2C_Robot_Fighter_Vol_1",
+      "publisher": "Valiant Comics Database",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Bibliographie du crossover de 1992–1993.",
+      "retrieval_ref": "turn46search0"
+    },
+    {
+      "id": "src-print-magnus-trophy",
+      "title": "Predator Versus Magnus, Robot Fighter — TPB",
+      "url": "https://valiant.fandom.com/wiki/Predator_Versus_Magnus%2C_Robot_Fighter_%28TPB%29",
+      "publisher": "Valiant Comics Database",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Casque X-O comme trophée au cœur de ce seul crossover.",
+      "retrieval_ref": "turn46search1"
+    },
+    {
+      "id": "src-print-marvel-kills",
+      "title": "Predator Kills the Marvel Universe (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/130320/predator_kills_the_marvel_universe_2025_1_variant/variant",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Predator King, arsenal de vibranium et invasion de la Terre dans ce crossover.",
+      "retrieval_ref": "turn26search0"
+    },
+    {
+      "id": "src-print-marvel-omni1",
+      "title": "Marvel Previews — Predator: The Original Years Omnibus Vol. 1",
+      "url": "https://prhcomics.com/wp-content/uploads/2022/02/PREVIEWS2021006_MAY_2022_FINAL.pdf",
+      "publisher": "Marvel / Penguin Random House",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Titres et plages de numéros annoncés dans le premier omnibus.",
+      "retrieval_ref": "turn8search10"
+    },
+    {
+      "id": "src-print-marvel-omni2",
+      "title": "Marvel Previews — Predator: The Original Years Omnibus Vol. 2",
+      "url": "https://prhcomics.com/wp-content/uploads/2023/07/PREVIEWS2021023_FINAL_OCT_2023yjd.pdf",
+      "publisher": "Marvel / Penguin Random House",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Contenu annoncé du deuxième omnibus; distinguer prévision et date finale.",
+      "retrieval_ref": "turn8search11"
+    },
+    {
+      "id": "src-print-midnight",
+      "title": "Predator: Forever Midnight — Novel Plot, Characters & Lore",
+      "url": "https://www.avpcentral.com/predator-forever-midnight",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Hish-Qu-Ten, Midnight, Randall Ness et Shesh-Kuk; à contrôler dans le roman.",
+      "retrieval_ref": "turn21search1"
+    },
+    {
+      "id": "src-print-neca-ahab",
+      "title": "NECA — Ultimate Ahab",
+      "url": "https://store.necaonline.com/blogs/news/shipping-this-week-ultimate-ahab-ultimate-dream-sequence-jason-and-chucky-thanos-groot-head-knockers-1",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Design Ultimate Ahab et accessoires; ne pas inférer dimensions réelles depuis le jouet.",
+      "retrieval_ref": "turn33search1"
+    },
+    {
+      "id": "src-print-neca-ahab-origin",
+      "title": "NECA — Fire and Stone Ahab SDCC 2014",
+      "url": "https://store.necaonline.com/blogs/san-diego-comic-con/sdcc-feature-friday-4-exclusive-fire-and-stone-ahab-predator-action-figure",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Lien officiel entre Ahab et Fire and Stone.",
+      "retrieval_ref": "turn33search2"
+    },
+    {
+      "id": "src-print-neca-bad-blood",
+      "title": "NECA — Ultimate Bad Blood vs Enforcer",
+      "url": "https://store.necaonline.com/blogs/news/shipping-this-week-nightmare-on-elm-street-accessory-set-ultimate-bad-blood-enforcer-predator-2-pack-1",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Duo issu de la BD Bad Blood et versions 2018.",
+      "retrieval_ref": "turn31search4"
+    },
+    {
+      "id": "src-print-neca-blade",
+      "title": "NECA — Predator Blade Fighter Vehicle",
+      "url": "https://store.necaonline.com/blogs/news/shipping-this-week-predator-blade-fighter-vehicle",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Reprise du véhicule Kenner 1993, fonctions mécaniques du jouet.",
+      "retrieval_ref": "turn36search2"
+    },
+    {
+      "id": "src-print-neca-golden",
+      "title": "NECA Toy Fair 2018 — Golden Angel",
+      "url": "https://store.necaonline.com/blogs/toy-fair/toy-fair-2018-day-2-reveals-action-figures-from-aliens-series-13-alien-vs-predator-arcade-more",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Golden Angel rattaché à Predator: 1718; distinct d’une biographie universelle du pistolier.",
+      "retrieval_ref": "turn31search1"
+    },
+    {
+      "id": "src-print-neca-guide",
+      "title": "NECA — Predator Visual Guide 2022",
+      "url": "https://store.necaonline.com/blogs/news/12-days-of-downloads-2022-day-2-predator-action-figure-visual-guides",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Index visuel officiel, état de décembre 2022; ne garantit pas le catalogue 2026.",
+      "retrieval_ref": "turn33search0"
+    },
+    {
+      "id": "src-print-neca-lasershot",
+      "title": "NECA — Ultimate Lasershot Predator",
+      "url": "https://store.necaonline.com/blogs/news/shipping-this-week-ultimate-lasershot-predator-8-cloth-new-nightmare-freddy-and-restocks-of-the-life-size-groot-flasher-gremlins-and-e-t-stunt-puppets-1",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Lasershot Clan Leader, accessoires et origine hommage Kenner.",
+      "retrieval_ref": "turn36search0"
+    },
+    {
+      "id": "src-print-neca-viper",
+      "title": "NECA — Predator Series 12 line-up update",
+      "url": "https://store.necaonline.com/blogs/news/174238279-action-figure-update-predators-series-12-line-up-is-changing",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Viper présenté comme création NECA et pilote du Blade Fighter.",
+      "retrieval_ref": "turn31search5"
+    },
+    {
+      "id": "src-print-neca10",
+      "title": "NECA — Predator Series 10",
+      "url": "https://store.necaonline.com/blogs/news/shipping-predators-series-10-action-figures",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Lava Planet, Nightstorm et Hive Wars: hommages Kenner.",
+      "retrieval_ref": "turn33search4"
+    },
+    {
+      "id": "src-print-neca13",
+      "title": "NECA — Predator Series 13",
+      "url": "https://store.necaonline.com/blogs/news/shipping-this-week-predator-7-scale-action-figures-series-13",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Renegade, Scavage et Cracked Tusk: variantes issues des jouets Kenner.",
+      "retrieval_ref": "turn34search16"
+    },
+    {
+      "id": "src-print-neca16",
+      "title": "NECA — Predator Series 16",
+      "url": "https://store.necaonline.com/blogs/news/closer-look-predator-series-16-action-figures-a-kenner-tribute",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Spiked Tail, Stalker et Ghost: hommages Kenner.",
+      "retrieval_ref": "turn34search2"
+    },
+    {
+      "id": "src-print-neca18",
+      "title": "NECA — Predator Series 18 shipment",
+      "url": "https://store.necaonline.com/blogs/news/shipping-this-week-predator-series-18-aliens-ultimate-warriors-chucky-body-knocker-and-ultimate-chucky-restock-1",
+      "publisher": "NECA",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Hornhead, Broken Tusk et Machiko; Machiko est explicitement une humaine dans la description.",
+      "retrieval_ref": "turn31search0"
+    },
+    {
+      "id": "src-print-novel2018",
+      "title": "The Predator: The Official Movie Novelization",
+      "url": "https://titanbooks.com/9064-the-predator-the-official-movie-novelization/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Adaptation romanesque 2018; auteurs et édition.",
+      "retrieval_ref": "turn40view3"
+    },
+    {
+      "id": "src-print-planet-apes",
+      "title": "Predator vs. the Planet of the Apes #1",
+      "url": "https://prhcomics.com/book/?isbn=75960621569000111",
+      "publisher": "Penguin Random House / Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Publication annoncée 29/07/2026; astronaute Arch.",
+      "retrieval_ref": "turn26search7"
+    },
+    {
+      "id": "src-print-pred-comics-index",
+      "title": "List of Predator (franchise) comics",
+      "url": "https://en.wikipedia.org/wiki/List_of_Predator_(franchise)_comics",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Repérage des récits courts et dates à contrôler sur les éditions.",
+      "retrieval_ref": "turn38view1"
+    },
+    {
+      "id": "src-print-pred-novels-index",
+      "title": "List of Predator novels",
+      "url": "https://en.wikipedia.org/wiki/List_of_Predator_novels",
+      "publisher": "Wikipedia",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Repérage des éditions Jove, Bantam et DH Press.",
+      "retrieval_ref": "turn21search7"
+    },
+    {
+      "id": "src-print-prey-story",
+      "title": "Aliens vs. Predator: Prey — Novel Plot & Lore",
+      "url": "https://www.avpcentral.com/aliens-vs-predator-prey",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Noms romanesques de Broken Tusk et Tichinde; différences avec la BD.",
+      "retrieval_ref": "turn43search3"
+    },
+    {
+      "id": "src-print-punisher",
+      "title": "Predator vs. Punisher #1 Cover A",
+      "url": "https://prhcomics.com/book/?isbn=75960621694900111",
+      "publisher": "Penguin Random House / Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Sollicitation au 11/11/2026: à paraître lors du relevé 06/11/2026.",
+      "retrieval_ref": "turn8search9"
+    },
+    {
+      "id": "src-print-rift-war",
+      "title": "Aliens vs. Predators: Rift War",
+      "url": "https://titanbooks.com/70752-aliens-vs-predators-rift-war/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "LV-363, plante narcotique, chasse rituelle et hybrides volants.",
+      "retrieval_ref": "turn40view0"
+    },
+    {
+      "id": "src-print-shorty",
+      "title": "Shorty Predator: Profile of Machiko’s Rival",
+      "url": "https://www.avpcentral.com/shorty-predator",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Deux versions narratives de Shorty; le nom Lar’nix’va vient de Hunter’s Planet.",
+      "retrieval_ref": "turn54search1"
+    },
+    {
+      "id": "src-print-smiley",
+      "title": "Smiley Predator: Civilized Beasts Clan Leader",
+      "url": "https://www.avpcentral.com/smiley-predator",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Surnom Smiley dans Civilized Beasts; détails à contrôler dans le roman graphique.",
+      "retrieval_ref": "turn54search7"
+    },
+    {
+      "id": "src-print-south-china",
+      "title": "Predator: South China Sea — Novel Plot, Characters & Lore",
+      "url": "https://www.avpcentral.com/predator-south-china-sea",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Métadonnées et personnages du roman de Jeff VanderMeer.",
+      "retrieval_ref": "turn21search0"
+    },
+    {
+      "id": "src-print-spider-man",
+      "title": "Predator vs. Spider-Man (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/127369/predator_vs_spider-man_2025_1_variant/variant",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Skinner et sa présentation hors clan.",
+      "retrieval_ref": "turn24search0"
+    },
+    {
+      "id": "src-print-stalking",
+      "title": "Predator: Stalking Shadows",
+      "url": "https://titanbooks.com/70289-predator-stalking-shadows/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Préquelle officielle Hunting Grounds; Dutch et Scott Devlin.",
+      "retrieval_ref": "turn13view3"
+    },
+    {
+      "id": "src-print-superman",
+      "title": "Superman vs. Predator",
+      "url": "https://www.dc.com/graphic-novels/superman-vs-predator-2000/superman-vs-predator",
+      "publisher": "DC",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Crossover; maladie affaiblissant Superman et vaisseau en Amérique centrale.",
+      "retrieval_ref": "turn17search7"
+    },
+    {
+      "id": "src-print-superman-batman",
+      "title": "Superman and Batman vs. Aliens and Predator",
+      "url": "https://www.dc.com/graphic-novels/superman-and-batman-vs-aliens-and-predators-2007/superman-and-batman-vs-aliens-and-predator",
+      "publisher": "DC",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Recueil de la mini-série en deux numéros.",
+      "retrieval_ref": "turn17search6"
+    },
+    {
+      "id": "src-print-theta-last",
+      "title": "Predator: The Last Hunt — recueil",
+      "url": "https://www.marvel.com/comics/issue/110461/predator_the_last_hunt_tpb_trade_paperback",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Quatre numéros, Theta, John Schaefer et Super Predator.",
+      "retrieval_ref": "turn23search6"
+    },
+    {
+      "id": "src-print-theta-saga",
+      "title": "Predator: The Theta Saga",
+      "url": "https://www.penguinrandomhouse.com/books/797775/predator-the-theta-saga-by-ed-brisson/9781302965105/",
+      "publisher": "Penguin Random House / Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Recueil: Predator 2022 #1–6, 2023 #1–5, The Last Hunt #1–4.",
+      "retrieval_ref": "turn23search12"
+    },
+    {
+      "id": "src-print-theta2022",
+      "title": "Predator (2022) #1",
+      "url": "https://www.marvel.com/comics/issue/89617/predator",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Début de Theta dans la série 2022.",
+      "retrieval_ref": "turn23search0"
+    },
+    {
+      "id": "src-print-theta2023",
+      "title": "Predator (2023) #5",
+      "url": "https://www.marvel.com/comics/issue/107414/predator_2023_5",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Conclusion de The Preserve; vaisseau Sandpiper.",
+      "retrieval_ref": "turn23search4"
+    },
+    {
+      "id": "src-print-thicker",
+      "title": "Alien vs. Predator: Thicker Than Blood",
+      "url": "https://www.avpcentral.com/aliens-vs-predator-thicker-than-blood",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Publication des deux premiers fascicules puis conclusion en recueil; protagonistes.",
+      "retrieval_ref": "turn28search2"
+    },
+    {
+      "id": "src-print-three-world",
+      "title": "Aliens vs. Predator: Three World War",
+      "url": "https://www.avpcentral.com/aliens-vs-predator-three-world-war",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Machiko, Killers, Hunters et Caparis VII; à vérifier par numéro.",
+      "retrieval_ref": "turn28search3"
+    },
+    {
+      "id": "src-print-titan-avp-omni",
+      "title": "The Complete Aliens vs. Predator Omnibus",
+      "url": "https://titanbooks.com/8792-the-complete-aliens-vs-predator-omnibus/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Recueil 2016: Prey, Hunter’s Planet, War; Machiko, Ryushi et Prosperity Wells.",
+      "retrieval_ref": "turn13view1"
+    },
+    {
+      "id": "src-print-titan-catalog-refs",
+      "title": "Titan Books — catalogue Predator",
+      "url": "https://titanbooks.com/catalog/?q=predator",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Références des ouvrages de fabrication AVP 2004 et AVPR 2008.",
+      "retrieval_ref": "turn9view0"
+    },
+    {
+      "id": "src-print-titan-catalog2",
+      "title": "Titan Books — catalogue Predator, page 2",
+      "url": "https://titanbooks.com/catalog/?page=2&q=predator",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "The Predator: The Art and Making of the Film, 2018.",
+      "retrieval_ref": "turn13view7"
+    },
+    {
+      "id": "src-print-titan-pred-omni",
+      "title": "The Complete Predator Omnibus",
+      "url": "https://titanbooks.com/8986-the-complete-predator-omnibus/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Recueil romanesque 2018: Concrete Jungle, Cold War, Big Game; Schaefer et Nakai.",
+      "retrieval_ref": "turn13view0"
+    },
+    {
+      "id": "src-print-top-knot",
+      "title": "Top-Knot: Dachande’s Rival and Shell Leader",
+      "url": "https://www.avpcentral.com/top-knot-predator",
+      "publisher": "AvP Central",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Top-Knot et distinctions roman/BD; aucune fusion automatique des scènes.",
+      "retrieval_ref": "turn43search1"
+    },
+    {
+      "id": "src-print-ultimate-contents",
+      "title": "Aliens vs. Predator: Ultimate Prey — Siglerpedia",
+      "url": "https://siglerpedia.scottsigler.com/index.php/Aliens_vs._Predator%3A_Ultimate_Prey",
+      "publisher": "Siglerpedia / Scott Sigler",
+      "source_type": "secondary",
+      "checked_at": "2026-11-06",
+      "supports": "Table des matières consultée; recouper les crédits sur l’exemplaire.",
+      "retrieval_ref": "turn59search0"
+    },
+    {
+      "id": "src-print-ultimate-prey",
+      "title": "Aliens vs. Predators: Ultimate Prey",
+      "url": "https://titanbooks.com/70695-aliens-vs-predators-avp-ultimate-prey/",
+      "publisher": "Titan Books",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Anthologie 2022 de quinze histoires; provenance éditeur.",
+      "retrieval_ref": "turn13view5"
+    },
+    {
+      "id": "src-print-wolverine",
+      "title": "Predator vs. Wolverine — recueil",
+      "url": "https://www.marvel.com/comics/collection/110482/predator_vs_wolverine_2024_1",
+      "publisher": "Marvel",
+      "source_type": "official",
+      "checked_at": "2026-11-06",
+      "supports": "Quatre numéros et confrontation à Wolverine.",
+      "retrieval_ref": "turn24search6"
+    },
+    {
+      "id": "src-project-apex-content-js",
+      "title": "darknigthmare/yautja-apex-hunt — src/data/YautjaContentCatalog.js",
+      "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/YautjaContentCatalog.js",
+      "publisher": "darknigthmare/yautja-apex-hunt",
+      "source_type": "project",
+      "checked_at": "2026-11-06",
+      "supports": "Présence des IDs et déclarations dans ce fichier public au commit indiqué; pas une preuve indépendante du lore."
+    },
+    {
+      "id": "src-project-apex-lore-js",
+      "title": "darknigthmare/yautja-apex-hunt — src/data/YautjaLoreDatabase.js",
+      "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/YautjaLoreDatabase.js",
+      "publisher": "darknigthmare/yautja-apex-hunt",
+      "source_type": "project",
+      "checked_at": "2026-11-06",
+      "supports": "Présence des IDs et déclarations dans ce fichier public au commit indiqué; pas une preuve indépendante du lore."
+    },
+    {
+      "id": "src-project-apex-registry-json",
+      "title": "darknigthmare/yautja-apex-hunt — src/data/alien-base-registry.v2.json",
+      "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+      "publisher": "darknigthmare/yautja-apex-hunt",
+      "source_type": "project",
+      "checked_at": "2026-11-06",
+      "supports": "Présence des IDs et déclarations dans ce fichier public au commit indiqué; pas une preuve indépendante du lore."
+    },
+    {
+      "id": "src-project-hive-characters-js",
+      "title": "darknigthmare/Yautja-hive-warriors — js/data/charactersData.js",
+      "url": "https://github.com/darknigthmare/Yautja-hive-warriors/blob/aa0048d52eb05624eccab45fa98de16e31a15c4d/js/data/charactersData.js",
+      "publisher": "darknigthmare/Yautja-hive-warriors",
+      "source_type": "project",
+      "checked_at": "2026-11-06",
+      "supports": "Présence des IDs et déclarations dans ce fichier public au commit indiqué; pas une preuve indépendante du lore."
+    },
+    {
+      "id": "src-project-long-hunter-lore-ts",
+      "title": "darknigthmare/yautja-la-longue-chasse — app/game/hunterLore.ts",
+      "url": "https://github.com/darknigthmare/yautja-la-longue-chasse/blob/23b48e127e8d058da110f391c7ac3a4b9ef17aad/app/game/hunterLore.ts",
+      "publisher": "darknigthmare/yautja-la-longue-chasse",
+      "source_type": "project",
+      "checked_at": "2026-11-06",
+      "supports": "Présence des IDs et déclarations dans ce fichier public au commit indiqué; pas une preuve indépendante du lore."
+    },
+    {
+      "id": "src-project-tcg-alien-base-js",
+      "title": "darknigthmare/avp-hunt-hive-tcg — src/alien-base.js",
+      "url": "https://github.com/darknigthmare/avp-hunt-hive-tcg/blob/6dfb6f41c1cf5c63cdd45fab81c1c11d9a686800/src/alien-base.js",
+      "publisher": "darknigthmare/avp-hunt-hive-tcg",
+      "source_type": "project",
+      "checked_at": "2026-11-06",
+      "supports": "Présence des IDs et déclarations dans ce fichier public au commit indiqué; pas une preuve indépendante du lore."
+    },
+    {
+      "id": "src-project-tcg-data-js",
+      "title": "darknigthmare/avp-hunt-hive-tcg — src/data.js",
+      "url": "https://github.com/darknigthmare/avp-hunt-hive-tcg/blob/6dfb6f41c1cf5c63cdd45fab81c1c11d9a686800/src/data.js",
+      "publisher": "darknigthmare/avp-hunt-hive-tcg",
+      "source_type": "project",
+      "checked_at": "2026-11-06",
+      "supports": "Présence des IDs et déclarations dans ce fichier public au commit indiqué; pas une preuve indépendante du lore."
+    }
+  ]
+}

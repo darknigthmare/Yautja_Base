@@ -1,0 +1,2400 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "cov-film-avp-2004",
+      "work_id": "work-film-avp-2004",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-avpr-2007",
+      "work_id": "work-film-avpr-2007",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-badlands-2025",
+      "work_id": "work-film-badlands-2025",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-batman-dead-end-2003",
+      "work_id": "work-film-batman-dead-end-2003",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-killer-of-killers-2025",
+      "work_id": "work-film-killer-of-killers-2025",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-predator-1987",
+      "work_id": "work-film-predator-1987",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-predator-2-1990",
+      "work_id": "work-film-predator-2-1990",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-predators-2010",
+      "work_id": "work-film-predators-2010",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-prey-2022",
+      "work_id": "work-film-prey-2022",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-film-supp-1987-gear",
+      "work_id": "work-film-predator-1987",
+      "area": "Équipement fondamental et insertion spatiale",
+      "status": "partial",
+      "remaining": [
+        "Recouper les descriptions secondaires avec plans et minutages du film.",
+        "Relever les limites observées sans transférer statistiques des jeux."
+      ]
+    },
+    {
+      "id": "cov-film-supp-wolf-gear",
+      "work_id": "work-film-avpr-2007",
+      "area": "Arsenal et nettoyage de Wolf",
+      "status": "partial",
+      "remaining": [
+        "Confirmer les armes documentées par produits dérivés dans les séquences du film.",
+        "Documenter les transformations et les usages de chaque dispositif."
+      ]
+    },
+    {
+      "id": "cov-film-the-predator-2018",
+      "work_id": "work-film-the-predator-2018",
+      "area": "Métadonnées, personnages, motifs et repères visuels",
+      "status": "partial",
+      "remaining": [
+        "Relever plans et minutages dans une édition identifiée.",
+        "Compléter chaque accessoire, costume, véhicule et créature à partir de sources précises.",
+        "Recouper les noms issus des crédits, produits et sources secondaires.",
+        "Documenter les écarts entre versions et les contradictions sans fusionner les continuités."
+      ]
+    },
+    {
+      "id": "cov-game-avp-1999-detail",
+      "work_id": "work-game-avp-1999",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-capcom-1994-detail",
+      "work_id": "work-game-avp-capcom-1994",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Dépouiller les sept stages, tous ennemis/boss, tableaux de coups, projectiles, introductions, fins et voix.",
+        "Vérifier visuellement silhouettes et palettes du Warrior/Hunter, Linn et Dutch; ne pas confondre 1994 arcade avec SNES ou Jaguar."
+      ]
+    },
+    {
+      "id": "cov-game-avp-evolution-detail",
+      "work_id": "work-game-avp-evolution",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Dépouiller niveaux, armures, armes, progression, boss et événements; confirmer variantes de Jungle Hunter et Super Predators à l’écran."
+      ]
+    },
+    {
+      "id": "cov-game-avp-extinction-detail",
+      "work_id": "work-game-avp-extinction",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter toutes unités, améliorations, clans rivaux, sept missions par espèce, textes de briefing, lieux et économie.",
+        "Confirmer le relevé secondaire sur manuel/in-game avant de prétendre catalogue total."
+      ]
+    },
+    {
+      "id": "cov-game-avp-gold-2000-detail",
+      "work_id": "work-game-avp-gold-2000",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-jaguar-1994-detail",
+      "work_id": "work-game-avp-jaguar-1994",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-last-clan-1993-detail",
+      "work_id": "work-game-avp-last-clan-1993",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-mobile-3d-detail",
+      "work_id": "work-game-avp-mobile-3d",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "to_verify",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-mobile-elite-detail",
+      "work_id": "work-game-avp-mobile-elite",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-mobile-superscape-detail",
+      "work_id": "work-game-avp-mobile-superscape",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-requiem-mobile-detail",
+      "work_id": "work-game-avp-requiem-mobile",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-requiem-psp-detail",
+      "work_id": "work-game-avp-requiem-psp",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp-snes-1993-detail",
+      "work_id": "work-game-avp-snes-1993",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp2-2001-detail",
+      "work_id": "work-game-avp2-2001",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Indexer tous personnages de campagne, planète, laboratoires, clans, missions et modes multijoueur.",
+        "Les noms communautaires Prince et autres surnoms exigent une provenance explicite; ne pas les traiter comme noms affichés sans preuve."
+      ]
+    },
+    {
+      "id": "cov-game-avp2-primal-hunt-detail",
+      "work_id": "work-game-avp2-primal-hunt",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-avp2010-detail",
+      "work_id": "work-game-avp2010",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Dépouiller campagne Predator, Young Blood/Dark, anciens, espèces, temples, artefacts et scènes; vérifier chaque appellation.",
+        "Indexer Swarm et Bughunt ainsi que toutes cartes et modes, puis éléments visuels spécifiques."
+      ]
+    },
+    {
+      "id": "cov-game-concrete-jungle-detail",
+      "work_id": "work-game-concrete-jungle",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Dépouiller tous niveaux, défis rituels, costumes, gangs, boss, armes et gadgets; chaque fiche doit être ancrée à une capture ou au manuel original.",
+        "Comparer Scarface masqué/démasqué, implants des trois Yautja modifiés, intérieurs Borgia, MOTHER et technologie récupérée."
+      ]
+    },
+    {
+      "id": "cov-game-fortnite-predator-detail",
+      "work_id": "work-game-fortnite-predator",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-ghosts-predator-detail",
+      "work_id": "work-game-ghosts-predator",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-mkx-predator-detail",
+      "work_id": "work-game-mkx-predator",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-phg-arsenal",
+      "work_id": "work-game-phg",
+      "area": "Armes Predator et variantes",
+      "status": "partial",
+      "remaining": [
+        "Inventorier toutes animations de sortie/rangement, combos, attaques alternatives, projectiles, effets et matériaux.",
+        "Séparer modèle, reskin, arme fonctionnellement différente et équilibrage par patch."
+      ]
+    },
+    {
+      "id": "cov-game-phg-classes",
+      "work_id": "work-game-phg",
+      "area": "Classes Predator et DLC",
+      "status": "partial",
+      "remaining": [
+        "31 profils repérés; contrôler menu de la version possédée, dates par plateforme et éventuels contenus retirés.",
+        "Relever spécialisations autorisées, équipement, masque par défaut et divergences film/PHG pour chaque classe."
+      ]
+    },
+    {
+      "id": "cov-game-phg-cosmetics",
+      "work_id": "work-game-phg",
+      "area": "Masques, peaux, predlocks, armures et trophées",
+      "status": "partial",
+      "remaining": [
+        "Familles seulement indexées, pas totalité des teintes ni compatibilités.",
+        "Construire une matrice depuis le menu de chaque version, avec captures séparées avant/arrière/côtés et niveaux de déblocage."
+      ]
+    },
+    {
+      "id": "cov-game-phg-fireteam",
+      "work_id": "work-game-phg",
+      "area": "Fireteam, PNJ et factions",
+      "status": "partial",
+      "remaining": [
+        "Compléter toutes armes humaines, accessoires, grenades, perks, spécialisations, voix et skins.",
+        "Documenter distinction classes de base, personnages DLC, agents génériques et PNJ de mission."
+      ]
+    },
+    {
+      "id": "cov-game-phg-gear",
+      "work_id": "work-game-phg",
+      "area": "Outils et équipement",
+      "status": "partial",
+      "remaining": [
+        "Compléter inventaire médical, leurres audio, détecteurs, équipements anciens et limites de port.",
+        "Valider chaque interaction sous eau, camouflage, surcharge, arbres et perte du biomask."
+      ]
+    },
+    {
+      "id": "cov-game-phg-maps",
+      "work_id": "work-game-phg",
+      "area": "Cartes et variantes",
+      "status": "partial",
+      "remaining": [
+        "Six cartes indexées; relever tous sous-lieux, traversées, perchoirs, alarmes, objectifs, extraction et variantes jour/nuit.",
+        "Derailed: compléter par source primaire ou capture."
+      ]
+    },
+    {
+      "id": "cov-game-phg-missions",
+      "work_id": "work-game-phg",
+      "area": "Toutes missions Fireteam",
+      "status": "partial",
+      "remaining": [
+        "Indexer chaque mission par carte, donneur, étapes, objets, lieux et branches.",
+        "Les publications de lancement signalent 12 missions Airstrip et 12 Headquarters, sans fournir leur catalogue complet."
+      ]
+    },
+    {
+      "id": "cov-game-phg-modes",
+      "work_id": "work-game-phg",
+      "area": "Modes, progression et options",
+      "status": "partial",
+      "remaining": [
+        "Hunt, Clash et Custom Private indexés; relever toutes conditions de victoire, paramètres, progression, monnaie et Field Lockers."
+      ]
+    },
+    {
+      "id": "cov-game-phg-perks",
+      "work_id": "work-game-phg",
+      "area": "Perks et spécialisations",
+      "status": "partial",
+      "remaining": [
+        "Quinze spécialisations historiques indexées; perks et affectations récentes non intégralement dépouillés.",
+        "Faire un relevé exhaustif en jeu avec version, plateforme et capture; ne pas importer des statistiques communautaires comme canon."
+      ]
+    },
+    {
+      "id": "cov-game-phg-tapes",
+      "work_id": "work-game-phg",
+      "area": "Enregistrements et chronologie",
+      "status": "partial",
+      "remaining": [
+        "Relever toutes bandes Dutch, Isabelle et OWLF, titres exacts, ordre, narrateur, dates intradiégétiques et minutages.",
+        "Les articles prouvent leur présence; aucune transcription complète ou chronologie détaillée n’est prétendue ici."
+      ]
+    },
+    {
+      "id": "cov-game-phg-versions",
+      "work_id": "work-game-phg",
+      "area": "Versions et preuves",
+      "status": "partial",
+      "remaining": [
+        "Comparer patch 3.7.0 aux plateformes actuelles sans déduire la date de sortie d’une réponse de forum.",
+        "Ne citer que les messages officiels: les réactions communautaires servent de pistes QA, pas de faits d’univers."
+      ]
+    },
+    {
+      "id": "cov-game-phg-visual",
+      "work_id": "work-game-phg",
+      "area": "Références visuelles, sons et animations",
+      "status": "partial",
+      "remaining": [
+        "Aucun sprite, modèle, texture ni audio original du jeu n’a été extrait ou joint.",
+        "Enregistrer des références autorisées avec version, scène, angle, échelle, matériau, état de camouflage et source; distinguer description de reproduction."
+      ]
+    },
+    {
+      "id": "cov-game-predator-1987-detail",
+      "work_id": "work-game-predator-1987",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-predator-mobile-2004-detail",
+      "work_id": "work-game-predator-mobile-2004",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "to_verify",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-predator-nes-1988-detail",
+      "work_id": "work-game-predator-nes-1988",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-predator2-computers-detail",
+      "work_id": "work-game-predator2-computers",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-predator2-megadrive-detail",
+      "work_id": "work-game-predator2-megadrive",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-predator2-ms-gg-detail",
+      "work_id": "work-game-predator2-ms-gg",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-predators-mobile-detail",
+      "work_id": "work-game-predators-mobile",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "to_verify",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-game-wildlands-predator-detail",
+      "work_id": "work-game-wildlands-predator",
+      "area": "Dépouillement complet de l’œuvre",
+      "status": "partial",
+      "remaining": [
+        "Compléter manuel/fiche éditeur, noms affichés, personnages, armes, lieux, missions, adversaires, capacités et scènes de fin.",
+        "Relever les variantes par édition et plateforme; les éléments indexés ne valent pas audit visuel intégral."
+      ]
+    },
+    {
+      "id": "cov-print-1718",
+      "work_id": "work-print-1718",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-aliens-fire",
+      "work_id": "work-print-aliens-fire",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-aliens-life",
+      "work_id": "work-print-aliens-life",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-annual",
+      "work_id": "work-print-annual",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-archie",
+      "work_id": "work-print-archie",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-archie2",
+      "work_id": "work-print-archie2",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-armageddon",
+      "work_id": "work-print-armageddon",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-chained",
+      "work_id": "work-print-avp-chained",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-film-novel",
+      "work_id": "work-print-avp-film-novel",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-fire",
+      "work_id": "work-print-avp-fire",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-hell-bent",
+      "work_id": "work-print-avp-hell-bent",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-leftys-revenge",
+      "work_id": "work-print-avp-leftys-revenge",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-life",
+      "work_id": "work-print-avp-life",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-making",
+      "work_id": "work-print-avp-making",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Consulter l’ouvrage et relever les pages des designs retenus.",
+        "Séparer concept abandonné, fabrication et apparence finale."
+      ]
+    },
+    {
+      "id": "cov-print-avp-novel-omnibus",
+      "work_id": "work-print-avp-novel-omnibus",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-old-secrets",
+      "work_id": "work-print-avp-old-secrets",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-original",
+      "work_id": "work-print-avp-original",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-prologue",
+      "work_id": "work-print-avp-prologue",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avp-pursuit",
+      "work_id": "work-print-avp-pursuit",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-avpr-making",
+      "work_id": "work-print-avpr-making",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Consulter l’ouvrage et relever les pages des designs retenus.",
+        "Séparer concept abandonné, fabrication et apparence finale."
+      ]
+    },
+    {
+      "id": "cov-print-bad-blood",
+      "work_id": "work-print-bad-blood",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-badlands-prequel",
+      "work_id": "work-print-badlands-prequel",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-batman-collected",
+      "work_id": "work-print-batman-collected",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-batman1",
+      "work_id": "work-print-batman1",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-batman2",
+      "work_id": "work-print-batman2",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-batman3",
+      "work_id": "work-print-batman3",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-big-game-comic",
+      "work_id": "work-print-big-game-comic",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-big-game-novel",
+      "work_id": "work-print-big-game-novel",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-black-panther",
+      "work_id": "work-print-black-panther",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-blood-feud",
+      "work_id": "work-print-blood-feud",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-blood-time",
+      "work_id": "work-print-blood-time",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-bloodshed",
+      "work_id": "work-print-bloodshed",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-bloody-sands",
+      "work_id": "work-print-bloody-sands",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-booty",
+      "work_id": "work-print-booty",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-bump-night",
+      "work_id": "work-print-bump-night",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-bw-blood",
+      "work_id": "work-print-bw-blood",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-bw-blood-treasury",
+      "work_id": "work-print-bw-blood-treasury",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-captive",
+      "work_id": "work-print-captive",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-civilized-beasts",
+      "work_id": "work-print-civilized-beasts",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-cold-war-comic",
+      "work_id": "work-print-cold-war-comic",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-cold-war-novel",
+      "work_id": "work-print-cold-war-novel",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-concrete-jungle-comic",
+      "work_id": "work-print-concrete-jungle-comic",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-concrete-jungle-novel",
+      "work_id": "work-print-concrete-jungle-novel",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-dark-river",
+      "work_id": "work-print-dark-river",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-deadliest",
+      "work_id": "work-print-deadliest",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-deadspace",
+      "work_id": "work-print-deadspace",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-demons-gold",
+      "work_id": "work-print-demons-gold",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-dredd1997",
+      "work_id": "work-print-dredd1997",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-dredd2016",
+      "work_id": "work-print-dredd2016",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-duel",
+      "work_id": "work-print-duel",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-eternal",
+      "work_id": "work-print-eternal",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-eyes-demon",
+      "work_id": "work-print-eyes-demon",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Lire et relever la pagination, les personnages et les faits de chaque nouvelle indexée.",
+        "Conserver les divergences entre éditions et ne pas assimiler table des matières à lore validé."
+      ],
+      "contributions": [
+        {
+          "title": "The Titans",
+          "author": "Tim Lebbon",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "The Distance in Their Eyes",
+          "author": "Stephen Graham Jones",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Aftermath",
+          "author": "Bryan Thomas Schmidt",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Proving Ground",
+          "author": "Linda D. Addison",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Lion of the Himalayas",
+          "author": "Ammar Habib",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "The Fix Is In",
+          "author": "Jonathan Maberry",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Bitter Hunt",
+          "author": "Kim May",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Field Trip",
+          "author": "Robert Greenberger",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Cannon Fodder",
+          "author": "Gini Koch",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Little Miss Nightmare",
+          "author": "Peter Briggs",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "The Trophy",
+          "author": "A. R. Redington",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "The Monster",
+          "author": "Michael Kogge",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Ghost Story",
+          "author": "Joshua Pruett",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Sly Dark in the Daylight",
+          "author": "Yvonne Navarro",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Dead Man’s Switch",
+          "author": "Scott Sigler",
+          "source_ids": [
+            "src-print-eyes-contents"
+          ],
+          "status": "metadata_only"
+        }
+      ]
+    },
+    {
+      "id": "cov-print-final-life",
+      "work_id": "work-print-final-life",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-flesh-blood",
+      "work_id": "work-print-flesh-blood",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-forever-midnight",
+      "work_id": "work-print-forever-midnight",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-fourth-dimension",
+      "work_id": "work-print-fourth-dimension",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-gods-truth",
+      "work_id": "work-print-gods-truth",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hell-hot-water",
+      "work_id": "work-print-hell-hot-water",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hell-walkin",
+      "work_id": "work-print-hell-walkin",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-homeworld",
+      "work_id": "work-print-homeworld",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hunted-city",
+      "work_id": "work-print-hunted-city",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hunters",
+      "work_id": "work-print-hunters",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hunters-hunted",
+      "work_id": "work-print-hunters-hunted",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hunters-planet",
+      "work_id": "work-print-hunters-planet",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hunters2",
+      "work_id": "work-print-hunters2",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hunters3",
+      "work_id": "work-print-hunters3",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-hunting-heroes",
+      "work_id": "work-print-hunting-heroes",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-if-bleeds",
+      "work_id": "work-print-if-bleeds",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Lire et relever la pagination, les personnages et les faits de chaque nouvelle indexée.",
+        "Conserver les divergences entre éditions et ne pas assimiler table des matières à lore validé.",
+        "Contrôler Tin Warrior / Tin Warriors : variante de titre entre les notices consultées; seize récits listés hors introduction."
+      ],
+      "contributions": [
+        {
+          "title": "Devil Dogs",
+          "author": "Tim Lebbon",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Stonewall’s Last Stand",
+          "author": "Jeremy Robinson",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Rematch",
+          "author": "Steve Perry",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "May Blood Pave My Way Home",
+          "author": "Weston Ochse",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Storm Blood",
+          "author": "Peter J. Wacks et David Boop",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Last Report from the KSS Psychopomp",
+          "author": "Jennifer Brozek",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Skeld’s Keep",
+          "author": "S. D. Perry",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Indigenous Species",
+          "author": "Kevin J. Anderson",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Blood and Sand",
+          "author": "Mira Grant",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Tin Warriors",
+          "author": "John Shirley",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Three Sparks",
+          "author": "Larry Correia",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "The Pilot",
+          "author": "Andrew Mayne",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Buffalo Jump",
+          "author": "Wendy N. Wagner",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Drug War",
+          "author": "Bryan Thomas Schmidt et Holly Roberds",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Recon",
+          "author": "Dayton Ward",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Gameworld",
+          "author": "Jonathan Maberry",
+          "source_ids": [
+            "src-print-if-bleeds-contents"
+          ],
+          "status": "metadata_only"
+        }
+      ]
+    },
+    {
+      "id": "cov-print-incursion",
+      "work_id": "work-print-incursion",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-invasion",
+      "work_id": "work-print-invasion",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-jla",
+      "work_id": "work-print-jla",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-jungle-tales",
+      "work_id": "work-print-jungle-tales",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-kindred",
+      "work_id": "work-print-kindred",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-magnus",
+      "work_id": "work-print-magnus",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-marvel-kills",
+      "work_id": "work-print-marvel-kills",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-neca-ahab",
+      "work_id": "work-print-neca-ahab",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca-bad-blood",
+      "work_id": "work-print-neca-bad-blood",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca-blade",
+      "work_id": "work-print-neca-blade",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca-golden",
+      "work_id": "work-print-neca-golden",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca-lasershot",
+      "work_id": "work-print-neca-lasershot",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca-viper",
+      "work_id": "work-print-neca-viper",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca10",
+      "work_id": "work-print-neca10",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca13",
+      "work_id": "work-print-neca13",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca16",
+      "work_id": "work-print-neca16",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-neca18",
+      "work_id": "work-print-neca18",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever chaque référence produit et le texte de sa carte.",
+        "Distinguer le design du fabricant de son modèle film/BD/jeu."
+      ]
+    },
+    {
+      "id": "cov-print-nemesis",
+      "work_id": "work-print-nemesis",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-no-beast",
+      "work_id": "work-print-no-beast",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-novel1987",
+      "work_id": "work-print-novel1987",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-novel1990",
+      "work_id": "work-print-novel1990",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-novel2018",
+      "work_id": "work-print-novel2018",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-omega-fire",
+      "work_id": "work-print-omega-fire",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-planet-apes",
+      "work_id": "work-print-planet-apes",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-pred-novel-omnibus",
+      "work_id": "work-print-pred-novel-omnibus",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-predator-fire",
+      "work_id": "work-print-predator-fire",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-predator-life",
+      "work_id": "work-print-predator-life",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-predator2-comic",
+      "work_id": "work-print-predator2-comic",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-predator2018-making",
+      "work_id": "work-print-predator2018-making",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Consulter l’ouvrage et relever les pages des designs retenus.",
+        "Séparer concept abandonné, fabrication et apparence finale."
+      ]
+    },
+    {
+      "id": "cov-print-predators-adaptation",
+      "work_id": "work-print-predators-adaptation",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-predators-beating",
+      "work_id": "work-print-predators-beating",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-predators-preserve",
+      "work_id": "work-print-predators-preserve",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-predators2010",
+      "work_id": "work-print-predators2010",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-prey-heavens",
+      "work_id": "work-print-prey-heavens",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-prey-novel",
+      "work_id": "work-print-prey-novel",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-pride-nghasa",
+      "work_id": "work-print-pride-nghasa",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-primal",
+      "work_id": "work-print-primal",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-prometheus-fire",
+      "work_id": "work-print-prometheus-fire",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-prometheus-life",
+      "work_id": "work-print-prometheus-life",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-punisher",
+      "work_id": "work-print-punisher",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Confirmer la parution après la date annoncée.",
+        "Aucun fait narratif au-delà de la sollicitation ne doit être validé."
+      ]
+    },
+    {
+      "id": "cov-print-race-war",
+      "work_id": "work-print-race-war",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-rift-war",
+      "work_id": "work-print-rift-war",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-rite-passage",
+      "work_id": "work-print-rite-passage",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-sand-trap",
+      "work_id": "work-print-sand-trap",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-south-china",
+      "work_id": "work-print-south-china",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-spider-man",
+      "work_id": "work-print-spider-man",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-stalking",
+      "work_id": "work-print-stalking",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-strange-roux",
+      "work_id": "work-print-strange-roux",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-superman",
+      "work_id": "work-print-superman",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-superman-batman",
+      "work_id": "work-print-superman-batman",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-tarzan",
+      "work_id": "work-print-tarzan",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-terminator",
+      "work_id": "work-print-terminator",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-the-web",
+      "work_id": "work-print-the-web",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-theta-last",
+      "work_id": "work-print-theta-last",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-theta-saga",
+      "work_id": "work-print-theta-saga",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-theta2022",
+      "work_id": "work-print-theta2022",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-theta2023",
+      "work_id": "work-print-theta2023",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-thicker",
+      "work_id": "work-print-thicker",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-three-world",
+      "work_id": "work-print-three-world",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-thrill-hunt",
+      "work_id": "work-print-thrill-hunt",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-trophies",
+      "work_id": "work-print-trophies",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-turnabout",
+      "work_id": "work-print-turnabout",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-two-witch",
+      "work_id": "work-print-two-witch",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-ultimate-prey",
+      "work_id": "work-print-ultimate-prey",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Lire et relever la pagination, les personnages et les faits de chaque nouvelle indexée.",
+        "Conserver les divergences entre éditions et ne pas assimiler table des matières à lore validé."
+      ],
+      "contributions": [
+        {
+          "title": "Below Top Secret",
+          "author": "Chris Ryall",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Isla Matanzas",
+          "author": "Steven L. Sears",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Homestead",
+          "author": "Delilah S. Dawson",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "The Hotel Mariposa",
+          "author": "David Barnett",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Planting and Harvest",
+          "author": "Mira Grant",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Blood and Honor",
+          "author": "Susanne L. Lambdin",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Carbon Rites",
+          "author": "Jess Landry",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "First Hunt",
+          "author": "Bryan Thomas Schmidt",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Abuse, Interrupted",
+          "author": "Yvonne Navarro",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Better Luck to Borrow",
+          "author": "Curtis C. Chen",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Film School",
+          "author": "Roshni Bhatia",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Night Doctors",
+          "author": "Maurice Broaddus",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Scylla and Charybdis",
+          "author": "E. C. Myers",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Another Mother",
+          "author": "Scott Sigler",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        },
+        {
+          "title": "Kyōdai",
+          "author": "Jonathan Maberry et Louis Ozawa",
+          "source_ids": [
+            "src-print-ultimate-contents"
+          ],
+          "status": "metadata_only"
+        }
+      ]
+    },
+    {
+      "id": "cov-print-war-comic",
+      "work_id": "work-print-war-comic",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-war-novel",
+      "work_id": "work-print-war-novel",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-whoever-wins",
+      "work_id": "work-print-whoever-wins",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-wolverine",
+      "work_id": "work-print-wolverine",
+      "area": "bibliographie_et_lore",
+      "status": "indexed",
+      "remaining": [
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-xenogenesis-avp",
+      "work_id": "work-print-xenogenesis-avp",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-print-xenogenesis-predator",
+      "work_id": "work-print-xenogenesis-predator",
+      "area": "bibliographie_et_lore",
+      "status": "to_verify",
+      "remaining": [
+        "Confirmer les métadonnées sur l’édition originale ou chez l’éditeur.",
+        "Relever les pages/numéros de chaque fait avant validation du lore.",
+        "Inventorier personnages secondaires, décors, objets, variantes et contradictions."
+      ]
+    },
+    {
+      "id": "cov-project-apex-originals",
+      "work_id": "work-project-apex-hunt",
+      "area": "Créations locales et hommages",
+      "status": "partial",
+      "remaining": [
+        "Inventorier les autres créations originales des projets sans les mélanger aux références licenciées."
+      ]
+    }
+  ]
+}

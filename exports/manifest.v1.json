@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "as_of": "2026-11-06",
+  "dataset_sha256": "ba66a05989d84c92c5cad3019c232424b2821cbe979b9ecf8b1dac63d5f5042c",
+  "files": [
+    {
+      "path": "exports/stats.v1.json",
+      "sha256": "cbc0714bafef6b1dc4bb59442e64a47a54bec0b59df910d5790d719de8cd7cd5",
+      "bytes": 1351
+    },
+    {
+      "path": "exports/yautja-base.full.v1.json",
+      "sha256": "e1b3174985c8b110124b5d60b058d760f6ea7dfbb6b9cefca6db8f8703c6f892",
+      "bytes": 734920
+    },
+    {
+      "path": "exports/yautja-base.licensed.v1.json",
+      "sha256": "76dffe0033d00d4df911c7b3bf46e1fa6c427151671fea4e4fca234f8636aca2",
+      "bytes": 721409
+    },
+    {
+      "path": "exports/yautja-base.verified.v1.json",
+      "sha256": "8c04dbd760159c6bbd1ddd65f6efe8831a170f396f8e6b6083d2fba7d31b06a4",
+      "bytes": 500417
+    },
+    {
+      "path": "exports/consumers/yautja-la-longue-chasse.v1.json",
+      "sha256": "d3181cb11cad722322ba0ef94fd9d4553c491e7d011e8610f6643c2afc3c9991",
+      "bytes": 625602
+    },
+    {
+      "path": "exports/consumers/yautja-hive-warriors.v1.json",
+      "sha256": "e933fdec42646216ce51b5c42bb0a6e817662cfa816fa8dad3d6e0bf0a1713cb",
+      "bytes": 615154
+    },
+    {
+      "path": "exports/consumers/yautja-apex-hunt.v1.json",
+      "sha256": "6dadee6debcbc0ceebfff3d2c85b9a17f9f4e6a90dfc8a57b6247fcaa4d72dae",
+      "bytes": 629525
+    },
+    {
+      "path": "exports/consumers/avp-hunt-hive-tcg.v1.json",
+      "sha256": "fca38ece922249e21af3466c53ac056904d44d0e82ec97c1fc14a64d97f96d6d",
+      "bytes": 613785
+    }
+  ]
+}

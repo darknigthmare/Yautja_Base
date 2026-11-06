@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "yautja-la-longue-chasse",
+      "name": "Yautja : La Longue Chasse",
+      "repository": "darknigthmare/yautja-la-longue-chasse",
+      "repository_url": "https://github.com/darknigthmare/yautja-la-longue-chasse",
+      "integration_status": "export_ready_not_installed",
+      "preserve_local_ids": true,
+      "runtime_network_dependency": false,
+      "gameplay_stats_shared": false,
+      "export_path": "exports/consumers/yautja-la-longue-chasse.v1.json"
+    },
+    {
+      "id": "yautja-hive-warriors",
+      "name": "Yautja Hive Warriors",
+      "repository": "darknigthmare/Yautja-hive-warriors",
+      "repository_url": "https://github.com/darknigthmare/Yautja-hive-warriors",
+      "integration_status": "export_ready_not_installed",
+      "preserve_local_ids": true,
+      "runtime_network_dependency": false,
+      "gameplay_stats_shared": false,
+      "export_path": "exports/consumers/yautja-hive-warriors.v1.json"
+    },
+    {
+      "id": "yautja-apex-hunt",
+      "name": "Yautja : Apex Hunt",
+      "repository": "darknigthmare/yautja-apex-hunt",
+      "repository_url": "https://github.com/darknigthmare/yautja-apex-hunt",
+      "integration_status": "export_ready_not_installed",
+      "preserve_local_ids": true,
+      "runtime_network_dependency": false,
+      "gameplay_stats_shared": false,
+      "export_path": "exports/consumers/yautja-apex-hunt.v1.json"
+    },
+    {
+      "id": "avp-hunt-hive-tcg",
+      "name": "AVP HUNT // HIVE TCG",
+      "repository": "darknigthmare/avp-hunt-hive-tcg",
+      "repository_url": "https://github.com/darknigthmare/avp-hunt-hive-tcg",
+      "integration_status": "export_ready_not_installed",
+      "preserve_local_ids": true,
+      "runtime_network_dependency": false,
+      "gameplay_stats_shared": false,
+      "export_path": "exports/consumers/avp-hunt-hive-tcg.v1.json"
+    }
+  ]
+}

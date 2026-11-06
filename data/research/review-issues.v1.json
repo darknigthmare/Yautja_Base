@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "review-geography-val-verde",
+      "collections": [
+        "hive-characters",
+        "long-hunters",
+        "tcg-cards"
+      ],
+      "observation": "Certains imports nomment Val Verde pour le premier film.",
+      "resolution_rule": "Conserver ce libellé comme déclaration du projet; vérifier séparément ce que le film nomme et l’origine des usages étendus.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-generic-original-classes",
+      "collections": [
+        "tcg-cards"
+      ],
+      "observation": "Les cartes génériques de rang ne sont pas toutes des personnes identifiables.",
+      "resolution_rule": "Ne pas mapper Elder, Ancient, Clan Leader ou Young Blood sur un individu particulier à partir du nom.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-whip-terminology",
+      "collections": [
+        "hive-armory",
+        "hive-characters"
+      ],
+      "observation": "Le libellé local « plasma whip » peut confondre nature de l’arme, effet visuel et traduction.",
+      "resolution_rule": "Comparer le modèle précis et sa désignation dans la source avant de promouvoir le qualificatif plasma.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-medical-models",
+      "collections": [
+        "hive-armory"
+      ],
+      "observation": "Le catalogue associe un modèle unique de Medicomp à plusieurs œuvres.",
+      "resolution_rule": "Créer des variantes documentées par œuvre; ne pas prouver l’apparence du kit avec une autre scène.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-pirate-hook",
+      "collections": [
+        "hive-armory"
+      ],
+      "observation": "Le libellé « Pirate Arm Hook » nécessite une vérification d’attribution.",
+      "resolution_rule": "Distinguer Pirate, Exiled et leurs armes/skins PHG avec source éditeur et version.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-armory-mixed-sources",
+      "collections": [
+        "hive-armory"
+      ],
+      "observation": "Plusieurs armes locales citent plusieurs jeux dans la même origine.",
+      "resolution_rule": "Vérifier chaque modèle dans son manuel ou sa mission; ne pas assimiler maul, glaive et épée par similarité.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-fan-film-provenance",
+      "collections": [
+        "apex-skins"
+      ],
+      "observation": "Dead End est importé comme hommage du projet.",
+      "resolution_rule": "Le relier au fan film comme inspiration, jamais comme personnage de la continuité cinéma officielle.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-emissary-cut",
+      "collections": [
+        "tcg-cards",
+        "long-hunters"
+      ],
+      "observation": "Des Emissary et un laboratoire portent un statut de scène coupée.",
+      "resolution_rule": "Conserver coupé/prototype; la classe PHG reste une référence distincte du montage du film.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-kok-versus-phg",
+      "collections": [
+        "apex-skins",
+        "long-hunters"
+      ],
+      "observation": "Les noms de classes PHG peuvent reprendre des designs de Killer of Killers.",
+      "resolution_rule": "Garder une notice film et une notice classe; sourcer l’adaptation explicite sans copier les stats.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-novel-appearance",
+      "collections": [
+        "long-hunters"
+      ],
+      "observation": "Certains presets signalent une interprétation visuelle de personnages de romans.",
+      "resolution_rule": "Ne pas transformer leurs couleurs, biomasks et armures procédurales en descriptions officielles.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-lost-tribe-aliases",
+      "collections": [
+        "apex-skins",
+        "long-hunters"
+      ],
+      "observation": "Les surnoms et les détails de figurines peuvent dépasser ce qui apparaît à l’écran.",
+      "resolution_rule": "Attribuer chaque surnom à son édition/licence et documenter les différences d’accessoires.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-shared-balance",
+      "collections": [
+        "hive-characters",
+        "tcg-cards"
+      ],
+      "observation": "Les profils locaux comportent des dégâts, coûts, HP et capacités propres au jeu.",
+      "resolution_rule": "Les retirer du corpus commun et garder uniquement une liaison documentaire.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-alien-base-public",
+      "collections": [
+        "apex-skins"
+      ],
+      "observation": "Les IDs Alien_base présents dans les snapshots publics sont déjà utilisés ailleurs.",
+      "resolution_rule": "Les préserver comme identités externes, sans migrer ni supprimer les données Alien_base.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    },
+    {
+      "id": "review-future-editions",
+      "collections": [
+        "tcg-cards"
+      ],
+      "observation": "Les catalogues peuvent contenir projets annoncés ou annulés.",
+      "resolution_rule": "Vérifier la publication réelle à la date du corpus, puis distinguer annonce, prototype et œuvre publiée.",
+      "status": "open",
+      "automatic_correction_applied_to_games": false
+    }
+  ]
+}

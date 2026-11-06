@@ -1,0 +1,599 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "external-ad33d0d9ec708658",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.alpha_predator",
+      "entity_id": "yautja-game-phg-class-alpha",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-6504e2ef91095379",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.samurai_predator",
+      "entity_id": "yautja-game-phg-class-samurai",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-5ea46da8812c0edf",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.viking_predator",
+      "entity_id": "yautja-game-phg-class-viking",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-26763efb3348e904",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.jungle_hunter",
+      "entity_id": "yautja-film-jungle-hunter",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-ee0dc2323fbf4539",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.city_hunter",
+      "entity_id": "yautja-film-city-hunter",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-42f1f0ce76bac89e",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.elder_lost_tribe_1990",
+      "entity_id": "yautja-film-elder",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-0f320b8d56e1d9fa",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.scar_avp_2004",
+      "entity_id": "yautja-film-scar",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-24b30693652d059a",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.celtic_avp_2004",
+      "entity_id": "yautja-film-celtic",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-f711d058ef353e6a",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.chopper_avp_2004",
+      "entity_id": "yautja-film-chopper",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-932c4343b9f60479",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.wolf_predator",
+      "entity_id": "yautja-film-wolf",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-e02e1ee93bbed34b",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.berserker_2010",
+      "entity_id": "yautja-film-berserker",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-52db40f63f1c06ef",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.falconer_2010",
+      "entity_id": "yautja-film-falconer",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-9ba6885d5c93d094",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.tracker_2010",
+      "entity_id": "yautja-film-tracker",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-cbd9c45567e4b826",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.fugitive_2018",
+      "entity_id": "yautja-film-fugitive",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-24707feabe73a1fa",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.feral_predator",
+      "entity_id": "yautja-film-feral",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-89dc3daf92c50e9f",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.kok_viking_hunter_2025",
+      "entity_id": "yautja-film-killer-viking",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-cfbef60bfd060797",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.kok_feudal_hunter_2025",
+      "entity_id": "yautja-film-killer-samurai",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-394457df84f75a42",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.kok_wartime_hunter_2025",
+      "entity_id": "yautja-film-killer-pilot",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-b5308acbcf0a9871",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.dek_badlands_2025",
+      "entity_id": "yautja-film-dek",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-bb315f0fc07fa309",
+      "namespace": "alien_base",
+      "external_id": "character.yautja.kwei_badlands_2025",
+      "entity_id": "yautja-film-kwei",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-f64fab93abf21db8",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.cloak",
+      "entity_id": "yautja-film-cloak-1987",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-5f218c7129c6780e",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.combistick",
+      "entity_id": "yautja-film-combistick-p2",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-943061d25ff1abf0",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.smart_disc",
+      "entity_id": "yautja-film-smart-disc-p2",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-4ea8f70a80f9a97d",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.netgun",
+      "entity_id": "yautja-film-netgun",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-46760af050f9f894",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.feral_bolt_launcher_2022",
+      "entity_id": "yautja-film-boltgun-prey",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-687ade4378f18135",
+      "namespace": "alien_base",
+      "external_id": "vehicle.yautja.city_clan_vessel_1990",
+      "entity_id": "yautja-film-ship-p2",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-95806e5f3f721f2b",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.wristblades",
+      "entity_id": "yautja-film-wristblades-1987",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-3b57f924d5532a57",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.plasma_caster",
+      "entity_id": "yautja-film-plasmacaster-1987",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-a33c42b0605c473c",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.thermal_mask",
+      "entity_id": "yautja-film-biomask-1987",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-b5bc8a971be76696",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.medicomp",
+      "entity_id": "yautja-film-medicomp-1987",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-78657dec16b119d0",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.self_destruct",
+      "entity_id": "yautja-film-self-destruct-1987",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-337c15168bc3cb00",
+      "namespace": "alien_base",
+      "external_id": "item.yautja.wolf_dual_plasma_2007",
+      "entity_id": "yautja-film-dual-plasmacasters-wolf",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    },
+    {
+      "id": "external-0ca24ef345311b2d",
+      "namespace": "alien_base",
+      "external_id": "vehicle.yautja.jungle_dropcraft_1987",
+      "entity_id": "yautja-film-mothership-1987",
+      "relationship": "documentary_reference",
+      "source": {
+        "file": "apex-registry.json",
+        "repository": "darknigthmare/yautja-apex-hunt",
+        "path": "src/data/alien-base-registry.v2.json",
+        "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+        "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+        "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+        "retrieved_at": "2026-11-06",
+        "visibility": "public"
+      },
+      "note": "ID déjà exposé publiquement; ne remplace pas l’identité Alien_base et ne certifie pas le kit ou le visuel du jeu."
+    }
+  ]
+}

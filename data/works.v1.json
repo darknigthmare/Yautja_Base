@@ -1,0 +1,2661 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "work-film-avp-2004",
+      "title": "Alien vs. Predator",
+      "year": 2004,
+      "medium": "film",
+      "continuity": "AVP — cinéma",
+      "source_ids": [
+        "src-film-avp"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Continuité AVP cinéma, à conserver distincte des comics, jeux et Predator seuls.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-avpr-2007",
+      "title": "Aliens vs. Predator: Requiem",
+      "year": 2007,
+      "medium": "film",
+      "continuity": "AVP — cinéma",
+      "source_ids": [
+        "src-film-avpr"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Suite du film AVP de 2004.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-badlands-2025",
+      "title": "Predator: Badlands",
+      "year": 2025,
+      "medium": "film",
+      "continuity": "Predator — cinéma",
+      "source_ids": [
+        "src-film-badlands",
+        "src-film-badlands-disney",
+        "src-film-badlands-stream"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Film effectivement sorti en 2025 ; diffusion Disney+ annoncée pour février 2026.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-batman-dead-end-2003",
+      "title": "Batman: Dead End",
+      "year": 2003,
+      "medium": "fan_film",
+      "continuity": "Fan film indépendant — Batman / Alien / Predator",
+      "source_ids": [
+        "src-film-dead-end-wiki",
+        "src-film-dead-end-host",
+        "src-film-dead-end-interview"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Fan film indépendant ; aucune autorité canonique sur les franchises licenciées.",
+      "origin": "fan"
+    },
+    {
+      "id": "work-film-killer-of-killers-2025",
+      "title": "Predator: Killer of Killers",
+      "year": 2025,
+      "medium": "film",
+      "continuity": "Predator — cinéma",
+      "source_ids": [
+        "src-film-kok"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Film d’animation anthologique ; version et montage à préciser avant annotation plan par plan.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-predator-1987",
+      "title": "Predator",
+      "year": 1987,
+      "medium": "film",
+      "continuity": "Predator — cinéma",
+      "source_ids": [
+        "src-film-p87"
+      ],
+      "verification": "verified_metadata",
+      "notes": "",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-predator-2-1990",
+      "title": "Predator 2",
+      "year": 1990,
+      "medium": "film",
+      "continuity": "Predator — cinéma",
+      "source_ids": [
+        "src-film-p2"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Distinguer l’année de sortie 1990 du Los Angeles fictionnel de 1997.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-predators-2010",
+      "title": "Predators",
+      "year": 2010,
+      "medium": "film",
+      "continuity": "Predator — cinéma",
+      "source_ids": [
+        "src-film-predators"
+      ],
+      "verification": "verified_metadata",
+      "notes": "",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-prey-2022",
+      "title": "Prey",
+      "year": 2022,
+      "medium": "film",
+      "continuity": "Predator — cinéma",
+      "source_ids": [
+        "src-film-prey"
+      ],
+      "verification": "verified_metadata",
+      "notes": "",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-film-the-predator-2018",
+      "title": "The Predator",
+      "year": 2018,
+      "medium": "film",
+      "continuity": "Predator — cinéma",
+      "source_ids": [
+        "src-film-p18"
+      ],
+      "verification": "verified_metadata",
+      "notes": "",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-1999",
+      "title": "Aliens versus Predator",
+      "year": 1999,
+      "medium": "game",
+      "continuity": "avp-1999",
+      "source_ids": [
+        "src-game-avp-classic-manual",
+        "src-game-avp-snes"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Édition PC originale à distinguer de Gold et Classic 2000; état des cartes bonus à vérifier par édition.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-capcom-1994",
+      "title": "Alien vs. Predator — Capcom arcade",
+      "year": 1994,
+      "medium": "game",
+      "continuity": "avp-capcom-1994",
+      "source_ids": [
+        "src-game-avp-arcade",
+        "src-game-avp-arcade-manual"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Beat’em up CPS-2; conversion Capcom Home Arcade référencée par la notice secondaire.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-evolution",
+      "title": "Alien vs. Predator: Evolution",
+      "year": 2013,
+      "medium": "game",
+      "continuity": "avp-evolution",
+      "source_ids": [
+        "src-game-avp-evolution",
+        "src-game-avp-evolution-story"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Jeu iOS/Android d’Angry Mob Games.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-extinction",
+      "title": "Aliens versus Predator: Extinction",
+      "year": 2003,
+      "medium": "game",
+      "continuity": "avp-extinction",
+      "source_ids": [
+        "src-game-avp-extinction-creator",
+        "src-game-avp-extinction-units"
+      ],
+      "verification": "verified_metadata",
+      "notes": "RTS Zono; unités et économie de clan à garder dans cette continuité.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-gold-2000",
+      "title": "Aliens versus Predator Gold Edition / Classic 2000",
+      "year": 2000,
+      "medium": "game",
+      "continuity": "avp-gold-2000",
+      "source_ids": [
+        "src-game-avp-classic-store"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Gold: 2000; réédition Classic sur Steam: 2010. Le contenu inclut Millennium Expansion Pack, qui ne constitue pas un nouveau univers.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-jaguar-1994",
+      "title": "Alien vs. Predator — Atari Jaguar",
+      "year": 1994,
+      "medium": "game",
+      "continuity": "avp-jaguar-1994",
+      "source_ids": [
+        "src-game-avp-jaguar-manual"
+      ],
+      "verification": "verified_metadata",
+      "notes": "FPS Rebellion; continuité et règle d’honneur propres.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-last-clan-1993",
+      "title": "Alien vs. Predator: The Last of His Clan — Game Boy",
+      "year": 1993,
+      "medium": "game",
+      "continuity": "avp-last-clan-1993",
+      "source_ids": [
+        "src-game-avp-gb"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Alias japonais Alien vs. Predator. Même œuvre que la version Game Boy 1993: ne pas doubler.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-mobile-3d",
+      "title": "Alien vs. Predator 3D — mobile",
+      "year": 2005,
+      "medium": "game",
+      "continuity": "avp-mobile-3d",
+      "source_ids": [
+        "src-game-franchise-game-list"
+      ],
+      "verification": "to_verify",
+      "notes": "Piste bibliographique; obtenir manuel/fiche éditeur et version exacte.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-mobile-elite",
+      "title": "Alien vs. Predator — mobile Elite",
+      "year": 2004,
+      "medium": "game",
+      "continuity": "avp-mobile-elite",
+      "source_ids": [
+        "src-game-avp-mobile2004-elite"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Ne pas fusionner automatiquement les jeux mobiles homonymes.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-mobile-superscape",
+      "title": "Alien vs. Predator — mobile Superscape / 3D Wireless Games",
+      "year": 2004,
+      "medium": "game",
+      "continuity": "avp-mobile-superscape",
+      "source_ids": [
+        "src-game-avp-mobile2004"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice distincte de la version Elite et d’AvP 3D; éditions BREW/J2ME à préciser.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-requiem-mobile",
+      "title": "AVP: Requiem — mobile",
+      "year": 2007,
+      "medium": "game",
+      "continuity": "avp-requiem-mobile",
+      "source_ids": [
+        "src-game-avp-mobile-requiem"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Catalogue recense BREW et J2ME; différences entre éditions à documenter.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-requiem-psp",
+      "title": "Aliens vs. Predator: Requiem — PSP",
+      "year": 2007,
+      "medium": "game",
+      "continuity": "avp-requiem-psp",
+      "source_ids": [
+        "src-game-avp-requiem-psp"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Jeu Rebellion, adaptation différente du film et des versions mobiles.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp-snes-1993",
+      "title": "Alien vs. Predator — SNES",
+      "year": 1993,
+      "medium": "game",
+      "continuity": "avp-snes-1993",
+      "source_ids": [
+        "src-game-avp-snes"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Version Jorudan/IGS/Activision; distincte de Capcom et de la version Game Boy.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp2-2001",
+      "title": "Aliens versus Predator 2",
+      "year": 2001,
+      "medium": "game",
+      "continuity": "avp2-2001",
+      "source_ids": [
+        "src-game-avp2-index",
+        "src-game-avp2-manual"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Manuel Monolith utilisé pour les outils et capacités; identités narratives restent à contrôler dans la campagne.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp2-primal-hunt",
+      "title": "Aliens versus Predator 2: Primal Hunt",
+      "year": 2002,
+      "medium": "game",
+      "continuity": "avp2-primal-hunt",
+      "source_ids": [
+        "src-game-avp-primal"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Extension Third Law, distincte du jeu Monolith de base.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-avp2010",
+      "title": "Aliens vs. Predator — Rebellion / SEGA",
+      "year": 2010,
+      "medium": "game",
+      "continuity": "avp2010",
+      "source_ids": [
+        "src-game-avp2010-store"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Campagnes et modes séparés des titres 1994/1999.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-concrete-jungle",
+      "title": "Predator: Concrete Jungle",
+      "year": 2005,
+      "medium": "game",
+      "continuity": "concrete-jungle",
+      "source_ids": [
+        "src-game-concrete-neca",
+        "src-game-concrete-index"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Jeu Eurocom distinct du comic et du roman homonymes.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-fortnite-predator",
+      "title": "Fortnite — Predator / Jungle Hunter Quests",
+      "year": 2021,
+      "medium": "game",
+      "continuity": "fortnite-predator",
+      "source_ids": [
+        "src-game-fortnite-predator"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Crossover; son contexte Fortnite ne devient pas la chronologie principale de Predator.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-ghosts-predator",
+      "title": "Call of Duty: Ghosts — Devastation / Ruins",
+      "year": 2014,
+      "medium": "game",
+      "continuity": "ghosts-predator",
+      "source_ids": [
+        "src-game-ghosts-predator"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Crossover multijoueur; distinguer Predator de la faune du mode Extinction de Call of Duty.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-mkx-predator",
+      "title": "Mortal Kombat X — Predator DLC",
+      "year": 2015,
+      "medium": "game",
+      "continuity": "mkx-predator",
+      "source_ids": [
+        "src-game-mkx-predator"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Crossover licencié; variations, fin de personnage et fatalities relèvent de Mortal Kombat.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-phg",
+      "title": "Predator: Hunting Grounds",
+      "year": 2020,
+      "medium": "game",
+      "continuity": "phg",
+      "source_ids": [
+        "src-game-phg-home",
+        "src-game-phg-dutch",
+        "src-game-phg-feral300"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Catalogue vérifié sur publications officielles jusqu’au patch 3.7.0; le corpus ne remplace pas un inventaire de toutes les versions jouées.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-predator-1987",
+      "title": "Predator — ordinateurs 8/16 bits",
+      "year": 1987,
+      "medium": "game",
+      "continuity": "predator-1987",
+      "source_ids": [
+        "src-game-predator-classic-index"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Regrouper seulement les portages validés; les versions NES et MSX ne sont pas automatiquement identiques.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-predator-mobile-2004",
+      "title": "Predator — mobile Indiagames",
+      "year": 2004,
+      "medium": "game",
+      "continuity": "predator-mobile-2004",
+      "source_ids": [
+        "src-game-franchise-game-list"
+      ],
+      "verification": "to_verify",
+      "notes": "Piste de catalogue; contenu et références visuelles à retrouver.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-predator-nes-1988",
+      "title": "Predator — NES",
+      "year": 1988,
+      "medium": "game",
+      "continuity": "predator-nes-1988",
+      "source_ids": [
+        "src-game-predator-classic-index"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Adaptation Pack-In-Video distincte; inventaire détaillé à établir.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-predator2-computers",
+      "title": "Predator 2 — ordinateurs",
+      "year": 1990,
+      "medium": "game",
+      "continuity": "predator2-computers",
+      "source_ids": [
+        "src-game-predator2-index"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Rail shooter; sorties/régions et portages à préciser.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-predator2-megadrive",
+      "title": "Predator 2 — Mega Drive / Genesis",
+      "year": 1992,
+      "medium": "game",
+      "continuity": "predator2-megadrive",
+      "source_ids": [
+        "src-game-predator2-index"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Jeu distinct des versions ordinateurs et Master System/Game Gear.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-predator2-ms-gg",
+      "title": "Predator 2 — Master System / Game Gear",
+      "year": 1992,
+      "medium": "game",
+      "continuity": "predator2-ms-gg",
+      "source_ids": [
+        "src-game-predator2-index"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Jeu à défilement latéral; ne pas reprendre les niveaux Mega Drive comme identiques.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-predators-mobile",
+      "title": "Predators — mobile",
+      "year": 2010,
+      "medium": "game",
+      "continuity": "predators-mobile",
+      "source_ids": [
+        "src-game-predators-mobile-creator",
+        "src-game-predators-mobile-release"
+      ],
+      "verification": "to_verify",
+      "notes": "Conflit de métadonnées: studio affiche 2011; catalogue de sorties indique iOS 2010 puis Android 2012. Année 2010 provisoire à confirmer par archive boutique.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-game-wildlands-predator",
+      "title": "Ghost Recon Wildlands — Predator challenge",
+      "year": 2017,
+      "medium": "game",
+      "continuity": "wildlands-predator",
+      "source_ids": [
+        "src-game-wildlands-predator"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Événement annoncé en décembre 2017. Présence historique; disponibilité actuelle non inférée.",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-1718",
+      "title": "Predator: 1718",
+      "year": 1996,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-neca-golden",
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "A Decade of Dark Horse #1",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-aliens-fire",
+      "title": "Aliens: Fire and Stone",
+      "year": 2014,
+      "medium": "comic",
+      "continuity": "fire_and_stone",
+      "source_ids": [
+        "src-print-fire-stone",
+        "src-print-avp-fire-story"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle Fire and Stone; ordre narratif et détail des numéros à relever.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-aliens-life",
+      "title": "Aliens: Life and Death",
+      "year": 2016,
+      "medium": "comic",
+      "continuity": "life_and_death",
+      "source_ids": [
+        "src-print-life-death"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle; métadonnées de chaque mini-série à compléter depuis les crédits.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-annual",
+      "title": "Aliens vs. Predator Annual",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Recueil de cinq récits courts",
+      "bibliographic_type": "anthology_issue",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-archie",
+      "title": "Archie vs. Predator",
+      "year": 2015,
+      "medium": "comic",
+      "continuity": "archie_crossover",
+      "source_ids": [
+        "src-print-archie"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Titre final à distinguer de l’intitulé d’annonce Archie Meets Predator.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-archie2",
+      "title": "Archie vs. Predator II",
+      "year": 2019,
+      "medium": "comic",
+      "continuity": "archie_crossover",
+      "source_ids": [
+        "src-print-archie2"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Cinq numéros; #1 sorti le 24 juillet 2019.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-armageddon",
+      "title": "Alien vs. Predator: Armageddon",
+      "year": 2016,
+      "medium": "novel",
+      "continuity": "rage_war",
+      "source_ids": [
+        "src-print-armageddon"
+      ],
+      "verification": "verified_metadata",
+      "notes": "The Rage War, tome 3; Tim Lebbon.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-chained",
+      "title": "Aliens vs. Predator: Chained to Life and Death",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit de l’Annual; pagination à relever.",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "parent_work_id": "work-print-annual",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-film-novel",
+      "title": "Alien vs. Predator — novélisation du film",
+      "year": 2004,
+      "medium": "novel",
+      "continuity": "avp_film_novelization",
+      "source_ids": [
+        "src-print-avp-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Novélisation par Marc Cerasini, HarperEntertainment, 2004; contrôler l’édition originale avant extraction.",
+      "bibliographic_type": "adaptation",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-fire",
+      "title": "Alien vs. Predator: Fire and Stone",
+      "year": 2014,
+      "medium": "comic",
+      "continuity": "fire_and_stone",
+      "source_ids": [
+        "src-print-fire-stone",
+        "src-print-avp-fire-story"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle Fire and Stone; ordre narratif et détail des numéros à relever.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-hell-bent",
+      "title": "Aliens vs. Predator: Hell-Bent",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit de l’Annual; pagination à relever.",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "parent_work_id": "work-print-annual",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-leftys-revenge",
+      "title": "Aliens vs. Predator: Lefty’s Revenge",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit de l’Annual; pagination à relever.",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "parent_work_id": "work-print-annual",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-life",
+      "title": "Aliens vs. Predator: Life and Death",
+      "year": 2016,
+      "medium": "comic",
+      "continuity": "life_and_death",
+      "source_ids": [
+        "src-print-life-death"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle; métadonnées de chaque mini-série à compléter depuis les crédits.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-making",
+      "title": "AVP: Alien vs. Predator — livre de fabrication",
+      "year": 2004,
+      "medium": "reference_book",
+      "continuity": "production_reference",
+      "source_ids": [
+        "src-print-titan-catalog-refs"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Alec Gillis / Tom Woodruff; différencier concept, sculpture et plan filmé.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-novel-omnibus",
+      "title": "The Complete Aliens vs. Predator Omnibus",
+      "year": 2016,
+      "medium": "novel",
+      "continuity": "avp_novels_machiko",
+      "source_ids": [
+        "src-print-titan-avp-omni"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Recueil romanesque, distinct des omnibus de BD.",
+      "bibliographic_type": "collection",
+      "publication_status": "published",
+      "contains_work_ids": [
+        "work-print-prey-novel",
+        "work-print-hunters-planet",
+        "work-print-war-novel"
+      ],
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-old-secrets",
+      "title": "Aliens vs. Predator: Old Secrets",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit de l’Annual; pagination à relever.",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "parent_work_id": "work-print-annual",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-original",
+      "title": "Aliens vs. Predator — série originale",
+      "year": 1990,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-30",
+        "src-print-avp-essential"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Le prologue Dark Horse Presents 34–36 (1989–1990) et les #0–4 doivent être distingués des rééditions.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-prologue",
+      "title": "Aliens vs. Predator — prologue Dark Horse Presents",
+      "year": 1989,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "DHP #34–36",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avp-pursuit",
+      "title": "Aliens vs. Predator: Pursuit",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit de l’Annual; pagination à relever.",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "parent_work_id": "work-print-annual",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-avpr-making",
+      "title": "Aliens vs. Predator Requiem: Inside the Monster Shop",
+      "year": 2008,
+      "medium": "reference_book",
+      "continuity": "production_reference",
+      "source_ids": [
+        "src-print-titan-catalog-refs"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Référence de fabrication; chaque détail exige une page et un statut de production.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-bad-blood",
+      "title": "Predator: Bad Blood",
+      "year": 1993,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; prologue séparé dans Dark Horse Comics #12–14; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-badlands-prequel",
+      "title": "Predator: Badlands — préquelle BD",
+      "year": 2025,
+      "medium": "comic",
+      "continuity": "badlands_prequel",
+      "source_ids": [
+        "src-print-badlands-prequel"
+      ],
+      "verification": "verified_metadata",
+      "notes": "One-shot officiel; sorti le 12 novembre 2025, distinct du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "publication_date": "2025-11-12",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-batman-collected",
+      "title": "DC Comics/Dark Horse Comics: Batman vs. Predator",
+      "year": 2017,
+      "medium": "comic",
+      "continuity": "dc_batman_crossover",
+      "source_ids": [
+        "src-print-batman-collection"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Recueil des trois séries, pas une quatrième aventure.",
+      "bibliographic_type": "collection",
+      "publication_status": "published",
+      "contains_work_ids": [
+        "work-print-batman1",
+        "work-print-batman2",
+        "work-print-batman3"
+      ],
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-batman1",
+      "title": "Batman versus Predator",
+      "year": 1991,
+      "medium": "comic",
+      "continuity": "dc_batman_crossover",
+      "source_ids": [
+        "src-print-batman-collection"
+      ],
+      "verification": "to_verify",
+      "notes": "Première date à confirmer sur les fascicules; année de couverture parfois différente de la mise en vente.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-batman2",
+      "title": "Batman versus Predator II: Bloodmatch",
+      "year": 1994,
+      "medium": "comic",
+      "continuity": "dc_batman_crossover",
+      "source_ids": [
+        "src-print-batman-collection"
+      ],
+      "verification": "to_verify",
+      "notes": "Première date à confirmer sur les fascicules; année de couverture parfois différente de la mise en vente.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-batman3",
+      "title": "Batman versus Predator III: Blood Ties",
+      "year": 1997,
+      "medium": "comic",
+      "continuity": "dc_batman_crossover",
+      "source_ids": [
+        "src-print-batman-collection"
+      ],
+      "verification": "to_verify",
+      "notes": "Première date à confirmer sur les fascicules; année de couverture parfois différente de la mise en vente.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-big-game-comic",
+      "title": "Predator: Big Game",
+      "year": 1991,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-big-game-novel",
+      "title": "Predator: Big Game — roman",
+      "year": 1999,
+      "medium": "novel",
+      "continuity": "predator_bantam",
+      "source_ids": [
+        "src-print-titan-pred-omni",
+        "src-print-pred-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Repris dans The Complete Predator Omnibus; date originale à contrôler.",
+      "bibliographic_type": "adaptation",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-black-panther",
+      "title": "Predator vs. Black Panther",
+      "year": 2024,
+      "medium": "comic",
+      "continuity": "marvel_crossover_black_panther",
+      "source_ids": [
+        "src-print-black-panther"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Mini-série; contrôler chaque numéro pour le détail de l’arsenal.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-blood-feud",
+      "title": "Predator: Blood Feud",
+      "year": 1992,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Comics #4–7",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-blood-time",
+      "title": "Aliens vs. Predator: Blood Time",
+      "year": 1994,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Comics #25",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-bloodshed",
+      "title": "Predator: Bloodshed",
+      "year": 2026,
+      "medium": "comic",
+      "continuity": "marvel_bloodshed",
+      "source_ids": [
+        "src-print-bloodshed"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1 le 25 février 2026; dépouiller la série sans confondre la sollicitation avec une lecture complète.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-bloody-sands",
+      "title": "Predator: The Bloody Sands of Time",
+      "year": 1992,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–2; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-booty",
+      "title": "Aliens vs. Predator: Booty",
+      "year": 1995,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Première sérialisation et recueil 1996 à distinguer",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-bump-night",
+      "title": "Predator: Bump in the Night",
+      "year": 1997,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-dh-backlist"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Presents #124",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-bw-blood",
+      "title": "Predator: Black, White & Blood",
+      "year": 2025,
+      "medium": "comic",
+      "continuity": "marvel_anthology",
+      "source_ids": [
+        "src-print-bw-blood"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1–4; chaque récit doit avoir sa propre fiche.",
+      "bibliographic_type": "anthology_series",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-bw-blood-treasury",
+      "title": "Predator: Black, White & Blood — Treasury Edition",
+      "year": 2026,
+      "medium": "comic",
+      "continuity": "marvel_anthology",
+      "source_ids": [
+        "src-print-bw-blood"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Recueil paru le 29 juillet 2026.",
+      "bibliographic_type": "collection",
+      "publication_status": "published",
+      "contains_work_ids": [
+        "work-print-bw-blood"
+      ],
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-captive",
+      "title": "Predator: Captive",
+      "year": 1998,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "One-shot; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-civilized-beasts",
+      "title": "Alien vs. Predator: Civilized Beasts",
+      "year": 2008,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Date à confirmer: les index mélangent annonce et parution",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-cold-war-comic",
+      "title": "Predator: Cold War",
+      "year": 1991,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-cold-war-novel",
+      "title": "Predator: Cold War — roman",
+      "year": 1997,
+      "medium": "novel",
+      "continuity": "predator_bantam",
+      "source_ids": [
+        "src-print-titan-pred-omni",
+        "src-print-pred-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Repris dans The Complete Predator Omnibus; date originale à contrôler.",
+      "bibliographic_type": "adaptation",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-concrete-jungle-comic",
+      "title": "Predator / Predator: Concrete Jungle",
+      "year": 1989,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-concrete-jungle-novel",
+      "title": "Predator: Concrete Jungle — roman",
+      "year": 1995,
+      "medium": "novel",
+      "continuity": "predator_bantam",
+      "source_ids": [
+        "src-print-titan-pred-omni",
+        "src-print-pred-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Repris dans The Complete Predator Omnibus; date originale à contrôler.",
+      "bibliographic_type": "adaptation",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-dark-river",
+      "title": "Predator: Dark River",
+      "year": 1996,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-deadliest",
+      "title": "Aliens/Predator: Deadliest of the Species",
+      "year": 1993,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-deadliest"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–12",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-deadspace",
+      "title": "Aliens vs. Predator: Deadspace",
+      "year": 2008,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit court",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-demons-gold",
+      "title": "Predator: Demon’s Gold",
+      "year": 1998,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-dh-backlist"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Presents #137",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-dredd1997",
+      "title": "Predator versus Judge Dredd",
+      "year": 1997,
+      "medium": "comic",
+      "continuity": "judge_dredd_crossover",
+      "source_ids": [
+        "src-print-dredd",
+        "src-print-dredd-1997"
+      ],
+      "verification": "to_verify",
+      "notes": "Trois numéros; version Megazine à indexer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-dredd2016",
+      "title": "Predator vs. Judge Dredd vs. Aliens: Splice and Dice",
+      "year": 2016,
+      "medium": "comic",
+      "continuity": "judge_dredd_crossover",
+      "source_ids": [
+        "src-print-dredd"
+      ],
+      "verification": "to_verify",
+      "notes": "À distinguer du recueil 2014 réunissant les deux anciens crossovers.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-duel",
+      "title": "Aliens vs. Predator: Duel",
+      "year": 1995,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–2",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-eternal",
+      "title": "Aliens vs. Predator: Eternal",
+      "year": 1998,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-eyes-demon",
+      "title": "Predator: Eyes of the Demon",
+      "year": 2022,
+      "medium": "anthology",
+      "continuity": "predator_anthology",
+      "source_ids": [
+        "src-print-eyes-demon",
+        "src-print-eyes-contents"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Contributions indexées dans coverage; contenu narratif restant à dépouiller.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-final-life",
+      "title": "Prometheus: Life and Death — Final Conflict",
+      "year": 2017,
+      "medium": "comic",
+      "continuity": "life_and_death",
+      "source_ids": [
+        "src-print-life-death"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle; métadonnées de chaque mini-série à compléter depuis les crédits.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-flesh-blood",
+      "title": "Predator: Flesh and Blood",
+      "year": 2007,
+      "medium": "novel",
+      "continuity": "hish_novel_portrayal",
+      "source_ids": [
+        "src-print-dh-backlist",
+        "src-print-flesh"
+      ],
+      "verification": "to_verify",
+      "notes": "Dépouillement du texte nécessaire; ne pas généraliser les particularités du roman.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-forever-midnight",
+      "title": "Predator: Forever Midnight",
+      "year": 2006,
+      "medium": "novel",
+      "continuity": "hish_novel_portrayal",
+      "source_ids": [
+        "src-print-dh-backlist",
+        "src-print-midnight"
+      ],
+      "verification": "to_verify",
+      "notes": "Dépouillement du texte nécessaire; ne pas généraliser les particularités du roman.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-fourth-dimension",
+      "title": "Predator: Invaders from the Fourth Dimension",
+      "year": 1994,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "One-shot; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-gods-truth",
+      "title": "Predator: God’s Truth",
+      "year": 1990,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Presents #46",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hell-hot-water",
+      "title": "Predator: Hell & Hot Water",
+      "year": 1997,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–3; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hell-walkin",
+      "title": "Predator: Hell Come a-Walkin’",
+      "year": 1998,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–2; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-homeworld",
+      "title": "Predator: Homeworld",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hunted-city",
+      "title": "Predator: The Hunted City",
+      "year": 1993,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Comics #16–18",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hunters",
+      "title": "Predator: Hunters",
+      "year": 2017,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–5; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hunters-hunted",
+      "title": "The Predator: Hunters and Hunted",
+      "year": 2018,
+      "medium": "novel",
+      "continuity": "the_predator_prequel",
+      "source_ids": [
+        "src-print-hunters-hunted"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Préquelle officielle; James A. Moore.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hunters-planet",
+      "title": "Aliens vs. Predator: Hunter’s Planet",
+      "year": 1994,
+      "medium": "novel",
+      "continuity": "avp_novels_machiko",
+      "source_ids": [
+        "src-print-titan-avp-omni",
+        "src-print-avp-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Titre confirmé dans le recueil Titan; année initiale et rapport exact à la BD à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hunters2",
+      "title": "Predator: Hunters II",
+      "year": 2018,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hunters3",
+      "title": "Predator: Hunters III",
+      "year": 2020,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "Conclusion en recueil; vérifier la distinction fascicules/chapitres; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-hunting-heroes",
+      "title": "Hunting the Heroes: Predators Attack!",
+      "year": 1995,
+      "medium": "comic",
+      "continuity": "dark_horse_heroes_crossover",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Événement Dark Horse Heroes; numéros à relever",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-if-bleeds",
+      "title": "Predator: If It Bleeds",
+      "year": 2017,
+      "medium": "anthology",
+      "continuity": "predator_anthology",
+      "source_ids": [
+        "src-print-if-bleeds",
+        "src-print-if-bleeds-contents"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Contributions indexées dans coverage; contenu narratif restant à dépouiller.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-incursion",
+      "title": "Predator: Incursion",
+      "year": 2015,
+      "medium": "novel",
+      "continuity": "rage_war",
+      "source_ids": [
+        "src-print-incursion"
+      ],
+      "verification": "verified_metadata",
+      "notes": "The Rage War, tome 1; Tim Lebbon.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-invasion",
+      "title": "Alien: Invasion",
+      "year": 2016,
+      "medium": "novel",
+      "continuity": "rage_war",
+      "source_ids": [
+        "src-print-invasion"
+      ],
+      "verification": "verified_metadata",
+      "notes": "The Rage War, tome 2; Tim Lebbon.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-jla",
+      "title": "JLA versus Predator",
+      "year": 2001,
+      "medium": "comic",
+      "continuity": "dc_jla_crossover",
+      "source_ids": [
+        "src-print-jla"
+      ],
+      "verification": "to_verify",
+      "notes": "Date de couverture 2001; mise en vente fin 2000 à confirmer. Métadonnées secondaires.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-jungle-tales",
+      "title": "Predator: Jungle Tales",
+      "year": 1995,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "One-shot; vérifier lien de réédition à Rite of Passage",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-kindred",
+      "title": "Predator: Kindred",
+      "year": 1996,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-magnus",
+      "title": "Predator versus Magnus, Robot Fighter",
+      "year": 1992,
+      "medium": "comic",
+      "continuity": "valiant_crossover",
+      "source_ids": [
+        "src-print-magnus"
+      ],
+      "verification": "to_verify",
+      "notes": "Deux numéros en 1992–1993.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-marvel-kills",
+      "title": "Predator Kills the Marvel Universe",
+      "year": 2025,
+      "medium": "comic",
+      "continuity": "marvel_crossover_invasion",
+      "source_ids": [
+        "src-print-marvel-kills"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Invasion spécifique à ce crossover; ne définit pas toute la société Yautja.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca-ahab",
+      "title": "NECA Ultimate Ahab",
+      "year": 2018,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca-ahab"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca-bad-blood",
+      "title": "NECA Ultimate Bad Blood vs Enforcer",
+      "year": 2018,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca-bad-blood"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca-blade",
+      "title": "NECA Predator Blade Fighter",
+      "year": 2015,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca-blade"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca-golden",
+      "title": "NECA Ultimate Elder: The Golden Angel",
+      "year": 2019,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca-golden"
+      ],
+      "verification": "to_verify",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca-lasershot",
+      "title": "NECA Ultimate Lasershot Predator",
+      "year": 2019,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca-lasershot"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca-viper",
+      "title": "NECA Viper Predator",
+      "year": 2014,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca-viper"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca10",
+      "title": "NECA Predator Series 10 — hommages Kenner",
+      "year": 2013,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca10"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca13",
+      "title": "NECA Predator Series 13 — hommages Kenner",
+      "year": 2015,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca13"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca16",
+      "title": "NECA Predator Series 16 — hommages Kenner",
+      "year": 2016,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca16"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-neca18",
+      "title": "NECA Predator Series 18 — Dark Horse",
+      "year": 2018,
+      "medium": "toy",
+      "continuity": "licensed_merchandise",
+      "source_ids": [
+        "src-print-neca18"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice produit; les accessoires du jouet ne deviennent pas automatiquement des faits du film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-nemesis",
+      "title": "Predator: Nemesis",
+      "year": 1997,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–2; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-no-beast",
+      "title": "Predator: No Beast So Fierce",
+      "year": 1996,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-dh-backlist"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Presents #119",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-novel1987",
+      "title": "Predator — novélisation",
+      "year": 1987,
+      "medium": "novel",
+      "continuity": "predator_film_novelizations",
+      "source_ids": [
+        "src-print-pred-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Auteur et édition originale à confirmer; comparer séparément au montage du film.",
+      "bibliographic_type": "adaptation",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-novel1990",
+      "title": "Predator 2 — novélisation",
+      "year": 1990,
+      "medium": "novel",
+      "continuity": "predator_film_novelizations",
+      "source_ids": [
+        "src-print-pred-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Auteur et édition originale à confirmer; comparer séparément au montage du film.",
+      "bibliographic_type": "adaptation",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-novel2018",
+      "title": "The Predator — novélisation officielle",
+      "year": 2018,
+      "medium": "novel",
+      "continuity": "the_predator_novelization",
+      "source_ids": [
+        "src-print-novel2018"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Christopher Golden et Mark Morris.",
+      "bibliographic_type": "adaptation",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-omega-fire",
+      "title": "Prometheus: Fire and Stone — Omega",
+      "year": 2015,
+      "medium": "comic",
+      "continuity": "fire_and_stone",
+      "source_ids": [
+        "src-print-fire-stone",
+        "src-print-avp-fire-story"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle Fire and Stone; ordre narratif et détail des numéros à relever.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-planet-apes",
+      "title": "Predator vs. the Planet of the Apes",
+      "year": 2026,
+      "medium": "comic",
+      "continuity": "planet_of_the_apes_crossover",
+      "source_ids": [
+        "src-print-planet-apes"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1 annoncé/indiqué pour le 29 juillet 2026; contrôler la collection des numéros disponibles.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-pred-novel-omnibus",
+      "title": "The Complete Predator Omnibus",
+      "year": 2018,
+      "medium": "novel",
+      "continuity": "predator_bantam",
+      "source_ids": [
+        "src-print-titan-pred-omni"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Recueil romanesque, distinct des omnibus de BD.",
+      "bibliographic_type": "collection",
+      "publication_status": "published",
+      "contains_work_ids": [
+        "work-print-concrete-jungle-novel",
+        "work-print-cold-war-novel",
+        "work-print-big-game-novel"
+      ],
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predator-fire",
+      "title": "Predator: Fire and Stone",
+      "year": 2014,
+      "medium": "comic",
+      "continuity": "fire_and_stone",
+      "source_ids": [
+        "src-print-fire-stone",
+        "src-print-avp-fire-story"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle Fire and Stone; ordre narratif et détail des numéros à relever.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predator-life",
+      "title": "Predator: Life and Death",
+      "year": 2016,
+      "medium": "comic",
+      "continuity": "life_and_death",
+      "source_ids": [
+        "src-print-life-death"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle; métadonnées de chaque mini-série à compléter depuis les crédits.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predator2-comic",
+      "title": "Predator 2 — adaptation BD",
+      "year": 1991,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–2; adaptation du film; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predator2018-making",
+      "title": "The Predator: The Art and Making of the Film",
+      "year": 2018,
+      "medium": "reference_book",
+      "continuity": "production_reference",
+      "source_ids": [
+        "src-print-titan-catalog2"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Référence concept/fabrication du film 2018; pas preuve que tous les concepts figurent dans le film.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predators-adaptation",
+      "title": "Predators — Film Adaptation",
+      "year": 2010,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Adaptation BD; distincte de la préquelle",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predators-beating",
+      "title": "Predators: Beating the Bullet",
+      "year": 2010,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit préquelle; édition d’origine à relever; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predators-preserve",
+      "title": "Predators: Preserve the Game",
+      "year": 2010,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "One-shot; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-predators2010",
+      "title": "Predators — série préquelle",
+      "year": 2010,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-prey-heavens",
+      "title": "Predator (2009) / Prey to the Heavens",
+      "year": 2009,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-prey-novel",
+      "title": "Aliens vs. Predator: Prey",
+      "year": 1994,
+      "medium": "novel",
+      "continuity": "avp_novels_machiko",
+      "source_ids": [
+        "src-print-titan-avp-omni",
+        "src-print-avp-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Titre confirmé dans le recueil Titan; année initiale et rapport exact à la BD à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-pride-nghasa",
+      "title": "Predator: The Pride at Nghasa",
+      "year": 1993,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Comics #10–12",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-primal",
+      "title": "Predator: Primal",
+      "year": 1997,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–2; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-prometheus-fire",
+      "title": "Prometheus: Fire and Stone",
+      "year": 2014,
+      "medium": "comic",
+      "continuity": "fire_and_stone",
+      "source_ids": [
+        "src-print-fire-stone",
+        "src-print-avp-fire-story"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle Fire and Stone; ordre narratif et détail des numéros à relever.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-prometheus-life",
+      "title": "Prometheus: Life and Death",
+      "year": 2016,
+      "medium": "comic",
+      "continuity": "life_and_death",
+      "source_ids": [
+        "src-print-life-death"
+      ],
+      "verification": "to_verify",
+      "notes": "Branche du cycle; métadonnées de chaque mini-série à compléter depuis les crédits.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-punisher",
+      "title": "Predator vs. Punisher",
+      "year": 2026,
+      "medium": "comic",
+      "continuity": "marvel_crossover_punisher",
+      "source_ids": [
+        "src-print-punisher"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1 annoncé au 11 novembre 2026. Au relevé du 6 novembre, conserver le statut à paraître.",
+      "bibliographic_type": "original",
+      "publication_status": "announced",
+      "publication_date": "2026-11-11",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-race-war",
+      "title": "Predator: Race War",
+      "year": 1993,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "#0–4; ne pas omettre #0",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-rift-war",
+      "title": "Aliens vs. Predators: Rift War",
+      "year": 2022,
+      "medium": "novel",
+      "continuity": "avp_rift_war",
+      "source_ids": [
+        "src-print-rift-war"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Weston Ochse et Yvonne Navarro.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-rite-passage",
+      "title": "Predator: Rite of Passage",
+      "year": 1992,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Comics #1–2",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-sand-trap",
+      "title": "Alien vs. Predator: Sand Trap",
+      "year": 2007,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit court",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-south-china",
+      "title": "Predator: South China Sea",
+      "year": 2008,
+      "medium": "novel",
+      "continuity": "predator_dh_press",
+      "source_ids": [
+        "src-print-south-china"
+      ],
+      "verification": "to_verify",
+      "notes": "Dépouillement du texte nécessaire; ne pas généraliser les particularités du roman.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-spider-man",
+      "title": "Predator vs. Spider-Man",
+      "year": 2025,
+      "medium": "comic",
+      "continuity": "marvel_crossover_spider_man",
+      "source_ids": [
+        "src-print-spider-man"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Mini-série introduisant Skinner.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-stalking",
+      "title": "Predator: Stalking Shadows",
+      "year": 2020,
+      "medium": "novel",
+      "continuity": "hunting_grounds_prequel",
+      "source_ids": [
+        "src-print-stalking"
+      ],
+      "verification": "verified_metadata",
+      "notes": "James A. Moore et Mark Morris; distinguer roman et enregistrements du jeu.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-strange-roux",
+      "title": "Predator: Strange Roux",
+      "year": 1996,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni1"
+      ],
+      "verification": "to_verify",
+      "notes": "One-shot; année initiale à confirmer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-superman",
+      "title": "Superman vs. Predator",
+      "year": 2000,
+      "medium": "comic",
+      "continuity": "dc_superman_crossover",
+      "source_ids": [
+        "src-print-superman"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Série 2000; la notice consultée décrit le recueil de septembre 2001.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-superman-batman",
+      "title": "Superman and Batman vs. Aliens and Predator",
+      "year": 2007,
+      "medium": "comic",
+      "continuity": "dc_avp_crossover",
+      "source_ids": [
+        "src-print-superman-batman"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Deux numéros.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-tarzan",
+      "title": "Tarzan versus Predator: At the Earth’s Core",
+      "year": 1996,
+      "medium": "comic",
+      "continuity": "tarzan_crossover",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; référence primaire à retrouver.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-terminator",
+      "title": "Aliens vs. Predator vs. The Terminator",
+      "year": 2000,
+      "medium": "comic",
+      "continuity": "terminator_crossover",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; hybridations limitées à cette continuité.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-the-web",
+      "title": "Aliens vs. Predator: The Web",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "DHP #146–147",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-theta-last",
+      "title": "Predator: The Last Hunt",
+      "year": 2024,
+      "medium": "comic",
+      "continuity": "marvel_theta",
+      "source_ids": [
+        "src-print-theta-last"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1–4; retour de John Schaefer.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-theta-saga",
+      "title": "Predator: The Theta Saga",
+      "year": 2025,
+      "medium": "comic",
+      "continuity": "marvel_theta",
+      "source_ids": [
+        "src-print-theta-saga"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Recueil des trois séries; ne crée pas quinze nouvelles œuvres.",
+      "bibliographic_type": "collection",
+      "publication_status": "published",
+      "contains_work_ids": [
+        "work-print-theta2022",
+        "work-print-theta2023",
+        "work-print-theta-last"
+      ],
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-theta2022",
+      "title": "Predator (2022) — Day of the Hunter",
+      "year": 2022,
+      "medium": "comic",
+      "continuity": "marvel_theta",
+      "source_ids": [
+        "src-print-theta2022",
+        "src-print-theta-saga"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1–6; Ed Brisson / Kev Walker.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-theta2023",
+      "title": "Predator (2023) — The Preserve",
+      "year": 2023,
+      "medium": "comic",
+      "continuity": "marvel_theta",
+      "source_ids": [
+        "src-print-theta2023",
+        "src-print-theta-saga"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1–5; Ed Brisson / Netho Diaz.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-thicker",
+      "title": "Alien vs. Predator: Thicker Than Blood",
+      "year": 2019,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-thicker"
+      ],
+      "verification": "to_verify",
+      "notes": "Deux fascicules publiés; fin parue dans le recueil 2020. Ne pas inventer deux numéros commercialisés.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-three-world",
+      "title": "Aliens vs. Predator: Three World War",
+      "year": 2010,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-essential",
+        "src-print-three-world"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Six numéros; conclusion du cycle de Machiko.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-thrill-hunt",
+      "title": "Alien vs. Predator: Thrill of the Hunt",
+      "year": 2004,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Roman graphique",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-trophies",
+      "title": "Aliens vs. Predator: Trophies",
+      "year": 1991,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit court; édition exacte à contrôler",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-turnabout",
+      "title": "Predator: Turnabout",
+      "year": 2008,
+      "medium": "novel",
+      "continuity": "predator_dh_press",
+      "source_ids": [
+        "src-print-pred-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dépouillement du texte nécessaire; ne pas généraliser les particularités du roman.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-two-witch",
+      "title": "Predator: Blood on Two-Witch Mesa",
+      "year": 1994,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-pred-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Dark Horse Comics #20–21",
+      "bibliographic_type": "short_story",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-ultimate-prey",
+      "title": "Aliens vs. Predators: Ultimate Prey",
+      "year": 2022,
+      "medium": "anthology",
+      "continuity": "avp_anthology",
+      "source_ids": [
+        "src-print-ultimate-prey",
+        "src-print-ultimate-contents"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Contributions indexées dans coverage; contenu narratif restant à dépouiller.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-war-comic",
+      "title": "Aliens vs. Predator: War",
+      "year": 1995,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-essential",
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "#0–4",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-war-novel",
+      "title": "Aliens vs. Predator: War — roman",
+      "year": 1999,
+      "medium": "novel",
+      "continuity": "avp_novels_machiko",
+      "source_ids": [
+        "src-print-titan-avp-omni",
+        "src-print-avp-novels-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Titre confirmé dans le recueil Titan; année initiale et rapport exact à la BD à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-whoever-wins",
+      "title": "Alien vs. Predator: Whoever Wins… We Lose",
+      "year": 2005,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "Récit court",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-wolverine",
+      "title": "Predator vs. Wolverine",
+      "year": 2023,
+      "medium": "comic",
+      "continuity": "marvel_crossover_wolverine",
+      "source_ids": [
+        "src-print-wolverine"
+      ],
+      "verification": "verified_metadata",
+      "notes": "#1–4; recueil 2024 distinct de la première édition.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-xenogenesis-avp",
+      "title": "Aliens vs. Predator: Xenogenesis",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "avp_dark_horse",
+      "source_ids": [
+        "src-print-avp-comics-index"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; homonyme de Predator: Xenogenesis",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-print-xenogenesis-predator",
+      "title": "Predator: Xenogenesis",
+      "year": 1999,
+      "medium": "comic",
+      "continuity": "predator_dark_horse",
+      "source_ids": [
+        "src-print-marvel-omni2"
+      ],
+      "verification": "to_verify",
+      "notes": "#1–4; date de première édition à contrôler.",
+      "bibliographic_type": "original",
+      "publication_status": "published",
+      "origin": "licensed"
+    },
+    {
+      "id": "work-project-apex-hunt",
+      "title": "Yautja : Apex Hunt — créations propres au projet",
+      "year": null,
+      "medium": "game",
+      "continuity": "project-apex-hunt",
+      "origin": "project_original",
+      "source_ids": [
+        "src-project-apex-lore-js"
+      ],
+      "verification": "verified_metadata",
+      "notes": "Notice de provenance du jeu utilisateur, sans revendication de licence officielle."
+    }
+  ]
+}

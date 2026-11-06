@@ -1,0 +1,712 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "id": "brief-character-identification",
+      "title": "Identité et variantes",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Œuvre et édition",
+        "Nom et alias attribués",
+        "Personne, rang, classe ou silhouette collective",
+        "Équipement réellement porté",
+        "Variantes de costume et de blessure"
+      ],
+      "possible_deliverables": [
+        "Portrait face/profil",
+        "Silhouette plein pied",
+        "Éléments séparés",
+        "Planche de comparaison avec références"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-body-morphology",
+      "title": "Corps et morphologie",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Échelle attestée ou inconnue",
+        "Proportions par œuvre",
+        "Mandibules et bouche",
+        "Dreads et attaches",
+        "Cicatrices et prothèses visibles"
+      ],
+      "possible_deliverables": [
+        "Vue de face",
+        "Vue latérale",
+        "Vue arrière",
+        "Transitions de posture"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-biomasks",
+      "title": "Biomasques",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Forme précise pour cette variante",
+        "Optiques et canaux",
+        "Marquages attestés",
+        "Tuyaux et supports",
+        "Version portée ou retirée"
+      ],
+      "possible_deliverables": [
+        "Masque isolé",
+        "Profil",
+        "Intérieur si documenté",
+        "États endommagés"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-armor",
+      "title": "Armures et accessoires",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Épaule gauche/droite",
+        "Plaques et articulation",
+        "Tissus, filets et lanières",
+        "Boucles et trophées",
+        "Usure documentée"
+      ],
+      "possible_deliverables": [
+        "Pièces individuelles",
+        "Points d’attache",
+        "Superposition avec corps"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-textures",
+      "title": "Peaux, teintes et matériaux",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Palette observée sous lumière neutre",
+        "Distinguer éclairage et pigmentation",
+        "Textures PHG par version",
+        "Métal/os/tissu si attestés",
+        "Vues inconnues laissées ouvertes"
+      ],
+      "possible_deliverables": [
+        "Texture peau",
+        "Texture dreads",
+        "Texture armure",
+        "Référence d’échelle"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-wrist-weapons",
+      "title": "Armes de poignet",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Poignet de montage",
+        "Nombre de lames par variante",
+        "Ouverture et rétraction",
+        "Course mécanique observée",
+        "Position en repos et en attaque"
+      ],
+      "possible_deliverables": [
+        "Rétracté",
+        "Déploiement",
+        "Extension",
+        "Attaque",
+        "Retour"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-plasma-weapons",
+      "title": "Armes à plasma",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Montage et débattement du support",
+        "Origine exacte du projectile",
+        "Visée laser et point d’impact",
+        "Recul éventuel attesté",
+        "Charge propre au jeu/version"
+      ],
+      "possible_deliverables": [
+        "Support séparé",
+        "Canon orientable",
+        "Flash",
+        "Projectile",
+        "Impact"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-melee-weapons",
+      "title": "Armes de mêlée",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Longueur relative documentée",
+        "Prise en main",
+        "Transformation éventuelle",
+        "Lames et tranchants",
+        "Variation par œuvre"
+      ],
+      "possible_deliverables": [
+        "Arme isolée",
+        "Prises",
+        "Déploiement",
+        "Attaques attestées"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-thrown-weapons",
+      "title": "Disques, shurikens et projectiles",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Ouverture des lames",
+        "Point de départ",
+        "Orientation du vol",
+        "Rappel observé ou règle de jeu",
+        "Impact et récupération"
+      ],
+      "possible_deliverables": [
+        "Fermé",
+        "Ouvert",
+        "Vol",
+        "Impact",
+        "Récupération"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-gadgets",
+      "title": "Outils et pièges",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Modèle précis",
+        "Support corporel",
+        "Méthode de déploiement",
+        "Interface et mécanisme attestés",
+        "Consommable ou réutilisable selon source"
+      ],
+      "possible_deliverables": [
+        "Inventaire",
+        "Porté",
+        "Activation",
+        "Déployé",
+        "Désactivé"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-medical",
+      "title": "Équipement médical",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Mains et instruments visibles",
+        "Zone traitée",
+        "VFX observés",
+        "Pas de mécanisme anatomique inventé",
+        "Différences film/jeu"
+      ],
+      "possible_deliverables": [
+        "Trousse",
+        "Instruments",
+        "Manipulations",
+        "Effets documentés"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-vision",
+      "title": "Visions et affichages",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Vue subjective et version",
+        "Palette documentée",
+        "Sources lumineuses",
+        "Symboles identifiés ou non traduits",
+        "Comportement limité aux sources"
+      ],
+      "possible_deliverables": [
+        "HUD",
+        "Vision thermique",
+        "Autres modes attestés",
+        "Transition"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-cloaking",
+      "title": "Camouflage optique",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Objet ou corps couvert",
+        "Contours vus selon lumière",
+        "Déploiement de l’effet",
+        "Interaction eau/pluie selon œuvre",
+        "Ancrage à la silhouette"
+      ],
+      "possible_deliverables": [
+        "Activation",
+        "Stable",
+        "Détection partielle",
+        "Désactivation"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-self-destruct",
+      "title": "Autodestruction",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Dispositif et modèle",
+        "Gestes de programmation visibles",
+        "Compteur sans traduction inventée",
+        "Plan d’explosion source",
+        "Sécurité gameplay traitée localement"
+      ],
+      "possible_deliverables": [
+        "Poignet fermé/ouvert",
+        "Gestuelle",
+        "Affichage",
+        "Détonation"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-trophies",
+      "title": "Trophées et rituels",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Origine identifiable ou inconnue",
+        "Fixation à l’armure",
+        "Marquage selon œuvre",
+        "Objet de décor versus mécanique de jeu",
+        "Aucun rang généralisé sans source"
+      ],
+      "possible_deliverables": [
+        "Trophée individuel",
+        "Support",
+        "Cabinet",
+        "Gestes attestés"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-ships-exterior",
+      "title": "Vaisseaux : extérieurs",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Œuvre et silhouette exacte",
+        "Axes avant/arrière/dessus/dessous",
+        "Taille relative attestée",
+        "Moteurs et trappes visibles",
+        "Noms officiels versus noms descriptifs"
+      ],
+      "possible_deliverables": [
+        "Vues séparées",
+        "Inclinaisons",
+        "Virages",
+        "Approche",
+        "Départ"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-ships-interior",
+      "title": "Vaisseaux : intérieurs",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Compartiments réellement montrés",
+        "Connexions confirmées",
+        "Plans inconnus à qualifier comme design de projet",
+        "Consoles et dispositifs visibles",
+        "Échelle des portes par référence"
+      ],
+      "possible_deliverables": [
+        "Sol et murs",
+        "Portes",
+        "Consoles",
+        "Props individuels",
+        "Plans attestés"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-drop-pods",
+      "title": "Pods et insertion",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Modèle par œuvre",
+        "États des volets visibles",
+        "Trajectoire et orientation",
+        "Porte et sortie du personnage",
+        "Énergie et commandes spécifiques au projet"
+      ],
+      "possible_deliverables": [
+        "Espace",
+        "Entrée atmosphérique",
+        "Descente",
+        "Atterrissage",
+        "Ouverture"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-flight-vfx",
+      "title": "VFX de vol",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Attache aux moteurs documentés",
+        "Éclairage de la coque",
+        "Sens de déplacement",
+        "Échelle distance/perspective",
+        "Vapeur/chaleur/traînée selon référence"
+      ],
+      "possible_deliverables": [
+        "Propulsion",
+        "Entrée atmosphère",
+        "Turbulence",
+        "Poussière à l’atterrissage"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-world-architecture",
+      "title": "Lieux et architecture",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Lieu et œuvre exacts",
+        "Zones observées",
+        "Matériaux visibles",
+        "Symboles sans traduction arbitraire",
+        "Séparer reconstruction et extension originale"
+      ],
+      "possible_deliverables": [
+        "Décor",
+        "Sols/murs",
+        "Arches",
+        "Statues",
+        "Éclairage"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-fauna-companions",
+      "title": "Faune, proies et compagnons",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Espèce ou individu",
+        "Rôle attesté",
+        "Présence par œuvre",
+        "Dressage documenté ou hypothèse",
+        "Recrutement propre au projet"
+      ],
+      "possible_deliverables": [
+        "Silhouette",
+        "Locomotion",
+        "Attaques",
+        "Réactions",
+        "Accessoires"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-audio",
+      "title": "Références sonores",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Œuvre et séquence",
+        "Voix versus appareil",
+        "Timbre et rythme décrits",
+        "Pas de transcription non vérifiée",
+        "Droits des enregistrements"
+      ],
+      "possible_deliverables": [
+        "Liste de sons à produire",
+        "Tags de déclenchement",
+        "Position spatiale"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-animation-body",
+      "title": "Animations corporelles",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Postures observées",
+        "Latéralité",
+        "Poids et contact au sol",
+        "Arme équipée",
+        "Transitions entre poses"
+      ],
+      "possible_deliverables": [
+        "Idle",
+        "Marche",
+        "Course",
+        "Saut",
+        "Grimpe",
+        "Combat",
+        "Blessure"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    },
+    {
+      "id": "brief-ui-diegetic",
+      "title": "Interfaces diégétiques",
+      "status": "production_guidance",
+      "not_a_lore_assertion": true,
+      "reference_required": [
+        "work_id",
+        "source_id",
+        "edition_or_version",
+        "scene_page_or_mission",
+        "view_angle",
+        "observed_vs_inferred"
+      ],
+      "checks": [
+        "Interface affichée dans l’œuvre",
+        "Zones manipulables observées",
+        "Symboles non traduits par défaut",
+        "Interaction locale au jeu",
+        "Dimensions par rapport à la main"
+      ],
+      "possible_deliverables": [
+        "Écran",
+        "Affichage",
+        "Boutons",
+        "Rétroéclairage",
+        "États"
+      ],
+      "assets_generated": false,
+      "visual_fidelity_verified": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "file": "apex-lore.js",
+      "repository": "darknigthmare/yautja-apex-hunt",
+      "path": "src/data/YautjaLoreDatabase.js",
+      "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+      "blob_sha": "2ea6fbef17999783ac3bb14bfca24ff10fdd4beb",
+      "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/YautjaLoreDatabase.js",
+      "retrieved_at": "2026-11-06",
+      "visibility": "public"
+    },
+    {
+      "file": "apex-registry.json",
+      "repository": "darknigthmare/yautja-apex-hunt",
+      "path": "src/data/alien-base-registry.v2.json",
+      "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+      "blob_sha": "7a67f16a96e825b8a169bce507dd3fa892feff66",
+      "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/alien-base-registry.v2.json",
+      "retrieved_at": "2026-11-06",
+      "visibility": "public"
+    },
+    {
+      "file": "apex-content.js",
+      "repository": "darknigthmare/yautja-apex-hunt",
+      "path": "src/data/YautjaContentCatalog.js",
+      "commit": "4d3c7fb746b6fa0dddc96acb821936bf2268eaf0",
+      "blob_sha": "d03d62eb495e1e04a0bc30aaa9fff407c3f8bfc5",
+      "url": "https://github.com/darknigthmare/yautja-apex-hunt/blob/4d3c7fb746b6fa0dddc96acb821936bf2268eaf0/src/data/YautjaContentCatalog.js",
+      "retrieved_at": "2026-11-06",
+      "visibility": "public"
+    },
+    {
+      "file": "hive-characters.js",
+      "repository": "darknigthmare/Yautja-hive-warriors",
+      "path": "js/data/charactersData.js",
+      "commit": "aa0048d52eb05624eccab45fa98de16e31a15c4d",
+      "blob_sha": "79fc332a11233612d911e8499f7d2ea7bc8ccab6",
+      "url": "https://github.com/darknigthmare/Yautja-hive-warriors/blob/aa0048d52eb05624eccab45fa98de16e31a15c4d/js/data/charactersData.js",
+      "retrieved_at": "2026-11-06",
+      "visibility": "public"
+    },
+    {
+      "file": "tcg-data.js",
+      "repository": "darknigthmare/avp-hunt-hive-tcg",
+      "path": "src/data.js",
+      "commit": "6dfb6f41c1cf5c63cdd45fab81c1c11d9a686800",
+      "blob_sha": "bf30d6387f98c61c46d3508fe87e72043ba1dbc9",
+      "url": "https://github.com/darknigthmare/avp-hunt-hive-tcg/blob/6dfb6f41c1cf5c63cdd45fab81c1c11d9a686800/src/data.js",
+      "retrieved_at": "2026-11-06",
+      "visibility": "public"
+    },
+    {
+      "file": "tcg-alien-base.js",
+      "repository": "darknigthmare/avp-hunt-hive-tcg",
+      "path": "src/alien-base.js",
+      "commit": "6dfb6f41c1cf5c63cdd45fab81c1c11d9a686800",
+      "blob_sha": "976a1d4264211fc85888e3f8a9b804934219d1f6",
+      "url": "https://github.com/darknigthmare/avp-hunt-hive-tcg/blob/6dfb6f41c1cf5c63cdd45fab81c1c11d9a686800/src/alien-base.js",
+      "retrieved_at": "2026-11-06",
+      "visibility": "public"
+    },
+    {
+      "file": "long-hunter-lore.ts",
+      "repository": "darknigthmare/yautja-la-longue-chasse",
+      "path": "app/game/hunterLore.ts",
+      "commit": "23b48e127e8d058da110f391c7ac3a4b9ef17aad",
+      "blob_sha": "6c73f105b53e79d743a939ed7af0ad22e7c03c67",
+      "url": "https://github.com/darknigthmare/yautja-la-longue-chasse/blob/23b48e127e8d058da110f391c7ac3a4b9ef17aad/app/game/hunterLore.ts",
+      "retrieved_at": "2026-11-06",
+      "visibility": "public"
+    }
+  ]
+}
